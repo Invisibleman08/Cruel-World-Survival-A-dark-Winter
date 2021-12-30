@@ -1,5 +1,5 @@
-#Thu Dec 30 11:07:16 EST 2021
-shaderPack=Sildurs Vibrant Shaders v1.12 Extreme.zip
+#Thu Dec 30 11:49:15 EST 2021
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

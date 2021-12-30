@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2021-12-30 11:29:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2021-11-10 17:40:57 -0500"
@@ -37,6 +49,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2021-12-30 11:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-11-10 17:13:37 -0500"
@@ -56,15 +74,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-12-30 11:33:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-12-30 11:01:29 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-12-30 11:01:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
     },
     "done": true
   },
@@ -113,6 +149,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-11-10 17:42:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
     },
     "done": true
   },
@@ -170,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2021-12-30 11:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
@@ -206,15 +254,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2021-11-10 17:40:57 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2021-12-30 11:29:19 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2021-12-30 11:32:18 -0500"
     },
     "done": true
   },
@@ -248,6 +314,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2021-12-30 11:29:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2021-12-30 11:01:29 -0500"
@@ -269,6 +341,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2021-11-10 17:19:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-12-30 11:32:18 -0500"
     },
     "done": true
   },
@@ -314,6 +392,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_0": "2021-12-30 11:29:03 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
@@ -350,6 +434,12 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:gravel": "2021-12-30 11:28:39 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-11-10 17:27:00 -0500"
@@ -365,6 +455,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2021-12-30 11:29:19 -0500"
     },
     "done": true
   }
