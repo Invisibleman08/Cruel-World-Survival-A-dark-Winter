@@ -144,7 +144,7 @@ key_key.little.mark:0
 key_key.little.config.item:0
 key_key.little.undo:44:CONTROL
 key_key.little.redo:21:CONTROL
-key_WorldEdit Reference:38
+key_WorldEdit Reference:24
 key_worldeditcuife3.key.cui.options:0
 key_worldeditcuife3.key.cui.toggle.visibility:0
 key_worldeditcuife3.key.cui.clear.selection:0

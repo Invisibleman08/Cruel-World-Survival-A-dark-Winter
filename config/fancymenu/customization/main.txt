@@ -16,23 +16,12 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = top-centered
-  x = -224
-  width = 449
+  x = -176
+  width = 362
   actionid = f560e894-2b54-49a6-9ffd-56912a3171cd1638484060153
   action = addtexture
   y = 26
   height = 52
-}
-
-customization {
-  path = resources/logo.png
-  orientation = top-centered
-  x = -231
-  width = 467
-  actionid = efda8ffd-6983-4886-9ffe-e1112d3decd81638483968517
-  action = addtexture
-  y = 24
-  height = 61
 }
 
 customization {
@@ -222,15 +211,15 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-right
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 825
+  x = -136
   width = 133
   actionid = f6b96d53-8a50-4e51-b4ae-67a59cb4f76e1638531963873
   action = addbutton
-  y = 391
+  y = 92
   label = Developers
   value = 
   height = 20
@@ -241,11 +230,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 825
+  x = 824
   width = 133
   actionid = b83f5af1-453e-4cfb-abf3-787326dd28761638531971164
   action = addbutton
-  y = 414
+  y = 385
   label = Credits
   value = 
   height = 20
@@ -261,5 +250,16 @@ customization {
   scale = 1.0
   alignment = left
   value = Minecraft is
+}
+
+customization {
+  path = resources/logo_new.png
+  orientation = top-centered
+  x = -192
+  width = 384
+  actionid = 5e5d305a-f539-47bf-b145-42710767dae91640878063142
+  action = addtexture
+  y = 18
+  height = 62
 }
 
