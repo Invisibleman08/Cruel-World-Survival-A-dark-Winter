@@ -4966,3 +4966,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [15:23:17] [Client thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
 [15:23:17] [Client thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Started on 57166
 [15:23:17] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Local game hosted on port 57166
+[15:24:24] [Client thread/INFO] [STDOUT]: [xaero.common.cache.BlockStateShortShapeCache:isShort:54]: (Minimap) Defaulting world-dependent block state shape to not short: 8246
+[15:35:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2750ms behind, skipping 55 tick(s)
+[15:47:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [TristanPoland: Set the time to 1000]
+[15:47:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[16:04:05] [Client thread/INFO] [STDOUT]: [xaero.map.cache.BlockStateShortShapeCache:isShort:52]: (World Map) Defaulting world-dependent block state shape to not short: 41066
