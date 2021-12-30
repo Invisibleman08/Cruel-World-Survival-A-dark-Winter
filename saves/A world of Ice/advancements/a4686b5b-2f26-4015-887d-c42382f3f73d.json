@@ -118,6 +118,7 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2021-12-30 12:38:55 -0500",
       "inv_changed-enderio:redstone_conduit2": "2021-11-11 06:41:07 -0500"
     },
     "done": false
@@ -338,6 +339,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
+    "criteria": {
+      "has_flower": "2021-12-30 12:55:28 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2021-11-10 17:13:37 -0500"
@@ -416,6 +423,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2021-12-30 12:37:40 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
@@ -440,6 +453,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2021-12-30 12:38:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2021-12-30 12:13:46 -0500"
@@ -449,6 +468,12 @@
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2021-11-04 06:40:54 -0400"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2021-12-30 12:38:55 -0500"
     },
     "done": true
   },

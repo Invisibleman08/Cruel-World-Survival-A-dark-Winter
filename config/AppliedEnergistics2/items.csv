@@ -1805,6 +1805,58 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Copper
+appliedenergistics2:facade:0, Cable Facade - Block of Aluminium
+appliedenergistics2:facade:0, Cable Facade - Block of Lead
+appliedenergistics2:facade:0, Cable Facade - Block of Silver
+appliedenergistics2:facade:0, Cable Facade - Block of Nickel
+appliedenergistics2:facade:0, Cable Facade - Block of Uranium
+appliedenergistics2:facade:0, Cable Facade - Block of Constantan
+appliedenergistics2:facade:0, Cable Facade - Block of Electrum
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
+appliedenergistics2:facade:0, Cable Facade - Coke Brick
+appliedenergistics2:facade:0, Cable Facade - Blast Brick
+appliedenergistics2:facade:0, Cable Facade - Reinforced Blast Brick
+appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:facade:0, Cable Facade - Hempcrete
+appliedenergistics2:facade:0, Cable Facade - Concrete
+appliedenergistics2:facade:0, Cable Facade - Concrete Tile
+appliedenergistics2:facade:0, Cable Facade - Leaded Concrete
+appliedenergistics2:facade:0, Cable Facade - Insulating Glass
+appliedenergistics2:facade:0, Cable Facade - Kiln Brick
+appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Copper Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Aluminium Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Lead Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Silver Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Nickel Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Uranium Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Constantan Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Electrum Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Steel Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Iron Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Gold Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Copper Coil Block
+appliedenergistics2:facade:0, Cable Facade - Electrum Coil Block
+appliedenergistics2:facade:0, Cable Facade - High-Voltage Coil Block
+appliedenergistics2:facade:0, Cable Facade - Redstone Engineering Block
+appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
+appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
+appliedenergistics2:facade:0, Cable Facade - Generator Block
+appliedenergistics2:facade:0, Cable Facade - Radiator Block
+appliedenergistics2:facade:0, Cable Facade - Fluix Coil Block
+appliedenergistics2:facade:0, Cable Facade - Dense Fluix Coil Block
+appliedenergistics2:facade:0, Cable Facade - Quartz Fiber Coil Block
+appliedenergistics2:facade:0, Cable Facade - Refined Fiber Coil Block
+appliedenergistics2:facade:0, Cable Facade - Asphalt Concrete
 appliedenergistics2:facade:0, Cable Facade - Dyeable Clean
 appliedenergistics2:facade:0, Cable Facade - Dyeable Floor
 appliedenergistics2:facade:0, Cable Facade - Dyeable Grainy Big
@@ -1827,6 +1879,7 @@ appliedenergistics2:facade:0, Cable Facade - White Opaque Water
 appliedenergistics2:facade:0, Cable Facade - Water
 appliedenergistics2:facade:0, Cable Facade - White Water
 appliedenergistics2:facade:0, Cable Facade - Little Storage Block
+appliedenergistics2:facade:0, Cable Facade - Reinforced Coke Brick
 appliedenergistics2:facade:0, Cable Facade - Floater
 appliedenergistics2:facade:0, Cable Facade - Air Balloon
 appliedenergistics2:facade:0, Cable Facade - Orange Air Balloon
@@ -2147,246 +2200,6 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Clay
 appliedenergistics2:facade:0, Cable Facade - Dolomite Clay
 appliedenergistics2:facade:0, Cable Facade - Greywacke Clay
 appliedenergistics2:facade:0, Cable Facade - Chert Clay
-appliedenergistics2:facade:0, Cable Facade - Red Granite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Ruby Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Topaz Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Malachite Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Charged Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Amber Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Amber Ore
 appliedenergistics2:facade:0, Cable Facade - Red Granite Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Black Granite Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Rhyolite Certus Quartz Ore
@@ -2411,78 +2224,174 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Dolomite Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Greywacke Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Chert Certus Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Peridot Ore
-appliedenergistics2:facade:0, Cable Facade - Red Granite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Black Granite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Rhyolite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Andesite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Gabbro Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Komatiite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Dacite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Gneiss Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Eclogite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Marble Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Quartzite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Blue Schist Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Green Schist Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Soapstone Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Migmatite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Limestone Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Chalk Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Shale Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Siltstone Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Lignite Block Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Dolomite Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Greywacke Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Chert Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Malachite Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Redstone Ore
 appliedenergistics2:facade:0, Cable Facade - Red Granite Tanzanite Ore
 appliedenergistics2:facade:0, Cable Facade - Black Granite Tanzanite Ore
 appliedenergistics2:facade:0, Cable Facade - Rhyolite Tanzanite Ore
@@ -2507,6 +2416,102 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Tanzanite Ore
 appliedenergistics2:facade:0, Cable Facade - Dolomite Tanzanite Ore
 appliedenergistics2:facade:0, Cable Facade - Greywacke Tanzanite Ore
 appliedenergistics2:facade:0, Cable Facade - Chert Tanzanite Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Uranium Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Bauxite Ore
 appliedenergistics2:facade:0, Cable Facade - Red Granite Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Black Granite Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Rhyolite Lapis Lazuli Ore
@@ -2531,6 +2536,198 @@ appliedenergistics2:facade:0, Cable Facade - Lignite Block Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Dolomite Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Greywacke Lapis Lazuli Ore
 appliedenergistics2:facade:0, Cable Facade - Chert Lapis Lazuli Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Charged Certus Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Peridot Ore
+appliedenergistics2:facade:0, Cable Facade - Red Granite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Black Granite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Rhyolite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Andesite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Gabbro Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Basalt Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Komatiite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Dacite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Gneiss Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Eclogite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Marble Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Quartzite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Blue Schist Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Green Schist Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Soapstone Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Migmatite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Limestone Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Chalk Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Shale Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Siltstone Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Lignite Block Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Dolomite Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Greywacke Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Chert Emerald Ore
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -2903,6 +3100,7 @@ enderio:item_material:22, Conduit Binder Composite
 enderio:item_material:23, Coal Powder
 enderio:item_material:24, Iron Powder
 enderio:item_material:25, Gold Powder
+enderio:item_material:26, Copper Powder
 enderio:item_material:28, Ender Pearl Powder
 enderio:item_material:29, Obsidian Powder
 enderio:item_material:30, Ardite Powder
@@ -4133,34 +4331,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -4198,6 +4396,8 @@ tconstruct:shard:0, Lead Shard
 tconstruct:shard:0, Silver Shard
 tconstruct:shard:0, Electrum Shard
 tconstruct:shard:0, Steel Shard
+tconstruct:shard:0, Treated Wood Shard
+tconstruct:shard:0, Constantan Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -4235,6 +4435,8 @@ tconstruct:sharpening_kit:0, Lead Sharpening Kit
 tconstruct:sharpening_kit:0, Silver Sharpening Kit
 tconstruct:sharpening_kit:0, Electrum Sharpening Kit
 tconstruct:sharpening_kit:0, Steel Sharpening Kit
+tconstruct:sharpening_kit:0, Treated Wood Sharpening Kit
+tconstruct:sharpening_kit:0, Constantan Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -4272,6 +4474,8 @@ tconstruct:pick_head:0, Lead Pickaxe Head
 tconstruct:pick_head:0, Silver Pickaxe Head
 tconstruct:pick_head:0, Electrum Pickaxe Head
 tconstruct:pick_head:0, Steel Pickaxe Head
+tconstruct:pick_head:0, Treated Wood Pickaxe Head
+tconstruct:pick_head:0, Constantan Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -4309,6 +4513,8 @@ tconstruct:shovel_head:0, Lead Shovel Head
 tconstruct:shovel_head:0, Silver Shovel Head
 tconstruct:shovel_head:0, Electrum Shovel Head
 tconstruct:shovel_head:0, Steel Shovel Head
+tconstruct:shovel_head:0, Treated Wood Shovel Head
+tconstruct:shovel_head:0, Constantan Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -4346,6 +4552,8 @@ tconstruct:axe_head:0, Lead Axe Head
 tconstruct:axe_head:0, Silver Axe Head
 tconstruct:axe_head:0, Electrum Axe Head
 tconstruct:axe_head:0, Steel Axe Head
+tconstruct:axe_head:0, Treated Wood Axe Head
+tconstruct:axe_head:0, Constantan Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -4383,6 +4591,8 @@ tconstruct:broad_axe_head:0, Lead Broad Axe Head
 tconstruct:broad_axe_head:0, Silver Broad Axe Head
 tconstruct:broad_axe_head:0, Electrum Broad Axe Head
 tconstruct:broad_axe_head:0, Steel Broad Axe Head
+tconstruct:broad_axe_head:0, Treated Wood Broad Axe Head
+tconstruct:broad_axe_head:0, Constantan Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -4420,6 +4630,8 @@ tconstruct:sword_blade:0, Lead Sword Blade
 tconstruct:sword_blade:0, Silver Sword Blade
 tconstruct:sword_blade:0, Electrum Sword Blade
 tconstruct:sword_blade:0, Steel Sword Blade
+tconstruct:sword_blade:0, Treated Wood Sword Blade
+tconstruct:sword_blade:0, Constantan Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -4457,6 +4669,8 @@ tconstruct:large_sword_blade:0, Lead Large Sword Blade
 tconstruct:large_sword_blade:0, Silver Large Sword Blade
 tconstruct:large_sword_blade:0, Electrum Large Sword Blade
 tconstruct:large_sword_blade:0, Steel Large Sword Blade
+tconstruct:large_sword_blade:0, Treated Wood Large Sword Blade
+tconstruct:large_sword_blade:0, Constantan Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -4494,6 +4708,8 @@ tconstruct:hammer_head:0, Lead Hammer Head
 tconstruct:hammer_head:0, Silver Hammer Head
 tconstruct:hammer_head:0, Electrum Hammer Head
 tconstruct:hammer_head:0, Steel Hammer Head
+tconstruct:hammer_head:0, Treated Wood Hammer Head
+tconstruct:hammer_head:0, Constantan Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -4531,6 +4747,8 @@ tconstruct:excavator_head:0, Lead Excavator Head
 tconstruct:excavator_head:0, Silver Excavator Head
 tconstruct:excavator_head:0, Electrum Excavator Head
 tconstruct:excavator_head:0, Steel Excavator Head
+tconstruct:excavator_head:0, Treated Wood Excavator Head
+tconstruct:excavator_head:0, Constantan Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -4568,6 +4786,8 @@ tconstruct:kama_head:0, Lead Kama Head
 tconstruct:kama_head:0, Silver Kama Head
 tconstruct:kama_head:0, Electrum Kama Head
 tconstruct:kama_head:0, Steel Kama Head
+tconstruct:kama_head:0, Treated Wood Kama Head
+tconstruct:kama_head:0, Constantan Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -4605,6 +4825,8 @@ tconstruct:scythe_head:0, Lead Scythe Head
 tconstruct:scythe_head:0, Silver Scythe Head
 tconstruct:scythe_head:0, Electrum Scythe Head
 tconstruct:scythe_head:0, Steel Scythe Head
+tconstruct:scythe_head:0, Treated Wood Scythe Head
+tconstruct:scythe_head:0, Constantan Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -4642,6 +4864,8 @@ tconstruct:pan_head:0, Lead Pan
 tconstruct:pan_head:0, Silver Pan
 tconstruct:pan_head:0, Electrum Pan
 tconstruct:pan_head:0, Steel Pan
+tconstruct:pan_head:0, Treated Wood Pan
+tconstruct:pan_head:0, Constantan Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -4679,6 +4903,8 @@ tconstruct:sign_head:0, Lead Sign Plate
 tconstruct:sign_head:0, Silver Sign Plate
 tconstruct:sign_head:0, Electrum Sign Plate
 tconstruct:sign_head:0, Steel Sign Plate
+tconstruct:sign_head:0, Treated Wood Sign Plate
+tconstruct:sign_head:0, Constantan Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -4716,6 +4942,8 @@ tconstruct:tool_rod:0, Lead Tool Rod
 tconstruct:tool_rod:0, Silver Tool Rod
 tconstruct:tool_rod:0, Electrum Tool Rod
 tconstruct:tool_rod:0, Steel Tool Rod
+tconstruct:tool_rod:0, Treated Wood Tool Rod
+tconstruct:tool_rod:0, Constantan Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -4753,6 +4981,8 @@ tconstruct:tough_tool_rod:0, Lead Tough Tool Rod
 tconstruct:tough_tool_rod:0, Silver Tough Tool Rod
 tconstruct:tough_tool_rod:0, Electrum Tough Tool Rod
 tconstruct:tough_tool_rod:0, Steel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Treated Wood Tough Tool Rod
+tconstruct:tough_tool_rod:0, Constantan Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -4790,6 +5020,8 @@ tconstruct:binding:0, Lead Binding
 tconstruct:binding:0, Silver Binding
 tconstruct:binding:0, Electrum Binding
 tconstruct:binding:0, Steel Binding
+tconstruct:binding:0, Treated Wood Binding
+tconstruct:binding:0, Constantan Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -4827,6 +5059,8 @@ tconstruct:tough_binding:0, Lead Tough Binding
 tconstruct:tough_binding:0, Silver Tough Binding
 tconstruct:tough_binding:0, Electrum Tough Binding
 tconstruct:tough_binding:0, Steel Tough Binding
+tconstruct:tough_binding:0, Treated Wood Tough Binding
+tconstruct:tough_binding:0, Constantan Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -4864,6 +5098,8 @@ tconstruct:wide_guard:0, Lead Wide Guard
 tconstruct:wide_guard:0, Silver Wide Guard
 tconstruct:wide_guard:0, Electrum Wide Guard
 tconstruct:wide_guard:0, Steel Wide Guard
+tconstruct:wide_guard:0, Treated Wood Wide Guard
+tconstruct:wide_guard:0, Constantan Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -4901,6 +5137,8 @@ tconstruct:hand_guard:0, Lead Hand Guard
 tconstruct:hand_guard:0, Silver Hand Guard
 tconstruct:hand_guard:0, Electrum Hand Guard
 tconstruct:hand_guard:0, Steel Hand Guard
+tconstruct:hand_guard:0, Treated Wood Hand Guard
+tconstruct:hand_guard:0, Constantan Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -4938,6 +5176,8 @@ tconstruct:cross_guard:0, Lead Cross Guard
 tconstruct:cross_guard:0, Silver Cross Guard
 tconstruct:cross_guard:0, Electrum Cross Guard
 tconstruct:cross_guard:0, Steel Cross Guard
+tconstruct:cross_guard:0, Treated Wood Cross Guard
+tconstruct:cross_guard:0, Constantan Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -4975,6 +5215,8 @@ tconstruct:large_plate:0, Lead Large Plate
 tconstruct:large_plate:0, Silver Large Plate
 tconstruct:large_plate:0, Electrum Large Plate
 tconstruct:large_plate:0, Steel Large Plate
+tconstruct:large_plate:0, Treated Wood Large Plate
+tconstruct:large_plate:0, Constantan Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -5012,6 +5254,8 @@ tconstruct:knife_blade:0, Lead Knife Blade
 tconstruct:knife_blade:0, Silver Knife Blade
 tconstruct:knife_blade:0, Electrum Knife Blade
 tconstruct:knife_blade:0, Steel Knife Blade
+tconstruct:knife_blade:0, Treated Wood Knife Blade
+tconstruct:knife_blade:0, Constantan Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -5049,11 +5293,14 @@ tconstruct:bow_limb:0, Lead Bowlimb
 tconstruct:bow_limb:0, Silver Bowlimb
 tconstruct:bow_limb:0, Electrum Bowlimb
 tconstruct:bow_limb:0, Steel Bowlimb
+tconstruct:bow_limb:0, Treated Wood Bowlimb
+tconstruct:bow_limb:0, Constantan Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Vines Bowstring
+tconstruct:bow_string:0, Hemp Fiber Bowstring
 tconstruct:arrow_head:0, Electrical Arrow Head
 tconstruct:arrow_head:0, Energetic Arrow Head
 tconstruct:arrow_head:0, Vibrant Arrow Head
@@ -5091,12 +5338,15 @@ tconstruct:arrow_head:0, Lead Arrow Head
 tconstruct:arrow_head:0, Silver Arrow Head
 tconstruct:arrow_head:0, Electrum Arrow Head
 tconstruct:arrow_head:0, Steel Arrow Head
+tconstruct:arrow_head:0, Treated Wood Arrow Head
+tconstruct:arrow_head:0, Constantan Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
 tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
+tconstruct:arrow_shaft:0, Treated Wood Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
@@ -5108,6 +5358,7 @@ tconstruct:bolt_core:0, Blazerod-Iron Bolt Core
 tconstruct:bolt_core:0, Reeds-Iron Bolt Core
 tconstruct:bolt_core:0, Ice-Iron Bolt Core
 tconstruct:bolt_core:0, Endrod-Iron Bolt Core
+tconstruct:bolt_core:0, Treated Wood-Iron Bolt Core
 tconstruct:tooltables:0, Crafting Station
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
@@ -5158,6 +5409,15 @@ tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:5, Part Chest
 tconstruct:tooltables:3, Tool Station
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
@@ -5247,64 +5507,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -5388,6 +5648,389 @@ dynamictreestconstruct:slimepurplebranch, Purple Slime Tree
 dynamictreestconstruct:slimepurpleseed, Purple Slime Seed
 dynamictreestconstruct:slimemagmabranch, Magma Slime Tree
 dynamictreestconstruct:slimemagmaseed, Magma Slime Seed
+immersiveengineering:ore:0, Copper Ore
+immersiveengineering:ore:1, Bauxite Ore
+immersiveengineering:ore:2, Lead Ore
+immersiveengineering:ore:3, Silver Ore
+immersiveengineering:ore:4, Nickel Ore
+immersiveengineering:ore:5, Uranium Ore
+immersiveengineering:storage:0, Block of Copper
+immersiveengineering:storage:1, Block of Aluminium
+immersiveengineering:storage:2, Block of Lead
+immersiveengineering:storage:3, Block of Silver
+immersiveengineering:storage:4, Block of Nickel
+immersiveengineering:storage:5, Block of Uranium
+immersiveengineering:storage:6, Block of Constantan
+immersiveengineering:storage:7, Block of Electrum
+immersiveengineering:storage:8, Block of Steel
+immersiveengineering:storage_slab:0, Copper Slab
+immersiveengineering:storage_slab:1, Aluminium Slab
+immersiveengineering:storage_slab:2, Lead Slab
+immersiveengineering:storage_slab:3, Silver Slab
+immersiveengineering:storage_slab:4, Nickel Slab
+immersiveengineering:storage_slab:5, Uranium Slab
+immersiveengineering:storage_slab:6, Constantan Slab
+immersiveengineering:storage_slab:7, Electrum Slab
+immersiveengineering:storage_slab:8, Steel Slab
+immersiveengineering:stone_decoration:0, Coke Brick
+immersiveengineering:stone_decoration:1, Blast Brick
+immersiveengineering:stone_decoration:2, Reinforced Blast Brick
+immersiveengineering:stone_decoration:3, Block of Coal Coke
+immersiveengineering:stone_decoration:4, Hempcrete
+immersiveengineering:stone_decoration:5, Concrete
+immersiveengineering:stone_decoration:6, Concrete Tile
+immersiveengineering:stone_decoration:7, Leaded Concrete
+immersiveengineering:stone_decoration:8, Insulating Glass
+immersiveengineering:stone_decoration:10, Kiln Brick
+immersiveengineering:stone_decoration_slab:0, Coke Brick Slab
+immersiveengineering:stone_decoration_slab:1, Blast Brick Slab
+immersiveengineering:stone_decoration_slab:2, Reinforced Blast Brick Slab
+immersiveengineering:stone_decoration_slab:4, Hempcrete Slab
+immersiveengineering:stone_decoration_slab:5, Concrete Slab
+immersiveengineering:stone_decoration_slab:6, Concrete Tile Slab
+immersiveengineering:stone_decoration_slab:7, Leaded Concrete Slab
+immersiveengineering:stone_decoration_slab:10, Kiln Brick Slab
+immersiveengineering:stone_decoration_stairs_hempcrete, Hempcrete Stairs
+immersiveengineering:stone_decoration_stairs_concrete, Concrete Stairs
+immersiveengineering:stone_decoration_stairs_concrete_tile, Concrete Tile Stairs
+immersiveengineering:stone_decoration_stairs_concrete_leaded, Leaded Concrete Stairs
+immersiveengineering:stone_device:3, Concrete Sheet
+immersiveengineering:stone_device:4, Concrete Panel
+immersiveengineering:stone_device:5, Concrete Chunk
+immersiveengineering:treated_wood:0, Treated Wood Planks
+immersiveengineering:treated_wood:1, Treated Wood Planks
+immersiveengineering:treated_wood:2, Treated Wood Planks
+immersiveengineering:treated_wood_slab:0, Treated Wood Slab
+immersiveengineering:treated_wood_slab:1, Treated Wood Slab
+immersiveengineering:treated_wood_slab:2, Treated Wood Slab
+immersiveengineering:treated_wood_stairs0, Treated Wood Stairs
+immersiveengineering:treated_wood_stairs1, Treated Wood Stairs
+immersiveengineering:treated_wood_stairs2, Treated Wood Stairs
+immersiveengineering:wooden_decoration:0, Treated Wood Fence
+immersiveengineering:wooden_decoration:1, Treated Wood Scaffolding
+immersiveengineering:wooden_device0:0, Wooden Storage Crate
+immersiveengineering:wooden_device0:1, Wooden Barrel
+immersiveengineering:wooden_device0:2, Engineer's Workbench
+immersiveengineering:wooden_device0:3, Item Router
+immersiveengineering:wooden_device0:4, Gunpowder Barrel
+immersiveengineering:wooden_device0:5, Reinforced Storage Crate
+immersiveengineering:wooden_device0:6, Turntable
+immersiveengineering:wooden_device0:7, Fluid Router
+immersiveengineering:wooden_device1:0, Water Wheel
+immersiveengineering:wooden_device1:1, Windmill
+immersiveengineering:wooden_device1:3, Wooden Post
+immersiveengineering:wooden_device1:4, Wooden Wallmount
+immersiveengineering:hemp, Industrial Hemp
+immersiveengineering:cloth_device:0, Jump Cushion
+immersiveengineering:cloth_device:1, Balloon
+immersiveengineering:cloth_device:2, Strip Curtain
+immersiveengineering:fake_light, tile.immersiveengineering.fake_light.name
+immersiveengineering:sheetmetal:0, Copper Sheetmetal
+immersiveengineering:sheetmetal:1, Aluminium Sheetmetal
+immersiveengineering:sheetmetal:2, Lead Sheetmetal
+immersiveengineering:sheetmetal:3, Silver Sheetmetal
+immersiveengineering:sheetmetal:4, Nickel Sheetmetal
+immersiveengineering:sheetmetal:5, Uranium Sheetmetal
+immersiveengineering:sheetmetal:6, Constantan Sheetmetal
+immersiveengineering:sheetmetal:7, Electrum Sheetmetal
+immersiveengineering:sheetmetal:8, Steel Sheetmetal
+immersiveengineering:sheetmetal:9, Iron Sheetmetal
+immersiveengineering:sheetmetal:10, Gold Sheetmetal
+immersiveengineering:sheetmetal_slab:0, Copper Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:1, Aluminium Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:2, Lead Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:3, Silver Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:4, Nickel Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:5, Uranium Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:6, Constantan Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:7, Electrum Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:8, Steel Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:9, Iron Sheetmetal Slab
+immersiveengineering:sheetmetal_slab:10, Gold Sheetmetal Slab
+immersiveengineering:metal_decoration0:0, Copper Coil Block
+immersiveengineering:metal_decoration0:1, Electrum Coil Block
+immersiveengineering:metal_decoration0:2, High-Voltage Coil Block
+immersiveengineering:metal_decoration0:3, Redstone Engineering Block
+immersiveengineering:metal_decoration0:4, Light Engineering Block
+immersiveengineering:metal_decoration0:5, Heavy Engineering Block
+immersiveengineering:metal_decoration0:6, Generator Block
+immersiveengineering:metal_decoration0:7, Radiator Block
+immersiveengineering:metal_decoration1:0, Steel Fence
+immersiveengineering:metal_decoration1:1, Steel Scaffolding
+immersiveengineering:metal_decoration1:2, Steel Scaffolding
+immersiveengineering:metal_decoration1:3, Steel Scaffolding
+immersiveengineering:metal_decoration1:4, Aluminium Fence
+immersiveengineering:metal_decoration1:5, Aluminium Scaffolding
+immersiveengineering:metal_decoration1:6, Aluminium Scaffolding
+immersiveengineering:metal_decoration1:7, Aluminium Scaffolding
+immersiveengineering:metal_decoration2:0, Steel Post
+immersiveengineering:metal_decoration2:1, Steel Wallmount
+immersiveengineering:metal_decoration2:2, Aluminium Post
+immersiveengineering:metal_decoration2:3, Aluminium Wallmount
+immersiveengineering:metal_decoration2:4, Lantern
+immersiveengineering:metal_decoration2:5, Razor Wire
+immersiveengineering:metal_decoration2:7, Steel Structural Arm
+immersiveengineering:metal_decoration2:8, Aluminium Structural Arm
+immersiveengineering:metal_decoration1_slab:1, Steel Scaffolding Slab
+immersiveengineering:metal_decoration1_slab:2, Steel Scaffolding Slab
+immersiveengineering:metal_decoration1_slab:3, Steel Scaffolding Slab
+immersiveengineering:metal_decoration1_slab:5, Aluminium Scaffolding Slab
+immersiveengineering:metal_decoration1_slab:6, Aluminium Scaffolding Slab
+immersiveengineering:metal_decoration1_slab:7, Aluminium Scaffolding Slab
+immersiveengineering:steel_scaffolding_stairs0, Steel Scaffolding Stairs
+immersiveengineering:steel_scaffolding_stairs1, Steel Scaffolding Stairs
+immersiveengineering:steel_scaffolding_stairs2, Steel Scaffolding Stairs
+immersiveengineering:aluminum_scaffolding_stairs0, Aluminium Scaffolding Stairs
+immersiveengineering:aluminum_scaffolding_stairs1, Aluminium Scaffolding Stairs
+immersiveengineering:aluminum_scaffolding_stairs2, Aluminium Scaffolding Stairs
+immersiveengineering:metal_ladder:0, Metal Ladder
+immersiveengineering:metal_ladder:1, Scaffold Covered Ladder
+immersiveengineering:metal_ladder:2, Scaffold Covered Ladder
+immersiveengineering:connector:0, LV Wire Connector
+immersiveengineering:connector:1, LV Wire Relay
+immersiveengineering:connector:2, MV Wire Connector
+immersiveengineering:connector:3, MV Wire Relay
+immersiveengineering:connector:4, HV Wire Connector
+immersiveengineering:connector:5, HV Wire Relay
+immersiveengineering:connector:6, Structural Cable Connector
+immersiveengineering:connector:7, Transformer
+immersiveengineering:connector:8, HV Transformer
+immersiveengineering:connector:9, Breaker Switch
+immersiveengineering:connector:10, Redstone Breaker
+immersiveengineering:connector:11, Current Transformer
+immersiveengineering:connector:12, Redstone Wire Connector
+immersiveengineering:connector:13, Redstone Probe Connector
+immersiveengineering:metaldevice0dummy:0, tile.immersiveengineering.metaldevice0dummy.capacitor_lv.name
+immersiveengineering:metaldevice0dummy:1, tile.immersiveengineering.metaldevice0dummy.capacitor_mv.name
+immersiveengineering:metaldevice0dummy:2, tile.immersiveengineering.metaldevice0dummy.capacitor_hv.name
+immersiveengineering:metaldevice0dummy:3, tile.immersiveengineering.metaldevice0dummy.capacitor_creative.name
+immersiveengineering:metaldevice0dummy:4, tile.immersiveengineering.metaldevice0dummy.barrel.name
+immersiveengineering:metaldevice0dummy:5, tile.immersiveengineering.metaldevice0dummy.fluid_pump.name
+immersiveengineering:metaldevice0dummy:6, tile.immersiveengineering.metaldevice0dummy.fluid_placer.name
+immersiveengineering:metaldevice1dummy:0, tile.immersiveengineering.metaldevice1dummy.blast_furnace_preheater.name
+immersiveengineering:metaldevice1dummy:1, tile.immersiveengineering.metaldevice1dummy.furnace_heater.name
+immersiveengineering:metaldevice1dummy:2, tile.immersiveengineering.metaldevice1dummy.dynamo.name
+immersiveengineering:metaldevice1dummy:3, tile.immersiveengineering.metaldevice1dummy.thermoelectric_gen.name
+immersiveengineering:metaldevice1dummy:4, tile.immersiveengineering.metaldevice1dummy.electric_lantern.name
+immersiveengineering:metaldevice1dummy:5, tile.immersiveengineering.metaldevice1dummy.charging_station.name
+immersiveengineering:metaldevice1dummy:6, tile.immersiveengineering.metaldevice1dummy.fluid_pipe.name
+immersiveengineering:metaldevice1dummy:7, tile.immersiveengineering.metaldevice1dummy.sample_drill.name
+immersiveengineering:metaldevice1dummy:8, tile.immersiveengineering.metaldevice1dummy.tesla_coil.name
+immersiveengineering:metaldevice1dummy:9, tile.immersiveengineering.metaldevice1dummy.floodlight.name
+immersiveengineering:metaldevice1dummy:10, tile.immersiveengineering.metaldevice1dummy.turret_chem.name
+immersiveengineering:metaldevice1dummy:11, tile.immersiveengineering.metaldevice1dummy.turret_gun.name
+immersiveengineering:metaldevice1dummy:13, tile.immersiveengineering.metaldevice1dummy.belljar.name
+immersiveengineering:conveyor, tile.immersiveengineering.conveyor.name
+immersiveengineering:material:0, Treated Stick
+immersiveengineering:material:1, Iron Rod
+immersiveengineering:material:2, Steel Rod
+immersiveengineering:material:3, Aluminium Rod
+immersiveengineering:material:4, Industrial Hemp Fiber
+immersiveengineering:material:5, Tough Fabric
+immersiveengineering:material:6, Coal Coke
+immersiveengineering:material:7, Slag
+immersiveengineering:material:8, Iron Mechanical Component
+immersiveengineering:material:9, Steel Mechanical Component
+immersiveengineering:material:10, Waterwheel Segment
+immersiveengineering:material:11, Windmill Blade
+immersiveengineering:material:12, Windmill Sail
+immersiveengineering:material:13, Wooden Grip
+immersiveengineering:material:14, Revolver Barrel
+immersiveengineering:material:15, Revolver Drum
+immersiveengineering:material:16, Revolver Hammer
+immersiveengineering:material:17, Coke Dust
+immersiveengineering:material:18, HOP Graphite Dust
+immersiveengineering:material:19, HOP Graphite Ingot
+immersiveengineering:material:20, Copper Wire
+immersiveengineering:material:21, Electrum Wire
+immersiveengineering:material:22, Aluminium Wire
+immersiveengineering:material:23, Steel Wire
+immersiveengineering:material:24, Nitrate Dust
+immersiveengineering:material:25, Sulfur Dust
+immersiveengineering:material:26, Vacuum Tube
+immersiveengineering:material:27, Circuit Board
+immersiveengineering:metal:0, Copper Ingot
+immersiveengineering:metal:1, Aluminium Ingot
+immersiveengineering:metal:2, Lead Ingot
+immersiveengineering:metal:3, Silver Ingot
+immersiveengineering:metal:4, Nickel Ingot
+immersiveengineering:metal:5, Uranium Ingot
+immersiveengineering:metal:6, Constantan Ingot
+immersiveengineering:metal:7, Electrum Ingot
+immersiveengineering:metal:8, Steel Ingot
+immersiveengineering:metal:9, Copper Grit
+immersiveengineering:metal:10, Aluminium Grit
+immersiveengineering:metal:11, Lead Grit
+immersiveengineering:metal:12, Silver Grit
+immersiveengineering:metal:13, Nickel Grit
+immersiveengineering:metal:14, Uranium Grit
+immersiveengineering:metal:15, Constantan Grit
+immersiveengineering:metal:16, Electrum Grit
+immersiveengineering:metal:17, Steel Grit
+immersiveengineering:metal:18, Iron Grit
+immersiveengineering:metal:19, Gold Grit
+immersiveengineering:metal:20, Copper Nugget
+immersiveengineering:metal:21, Aluminium Nugget
+immersiveengineering:metal:22, Lead Nugget
+immersiveengineering:metal:23, Silver Nugget
+immersiveengineering:metal:24, Nickel Nugget
+immersiveengineering:metal:25, Uranium Nugget
+immersiveengineering:metal:26, Constantan Nugget
+immersiveengineering:metal:27, Electrum Nugget
+immersiveengineering:metal:28, Steel Nugget
+immersiveengineering:metal:29, Iron Nugget
+immersiveengineering:metal:30, Copper Plate
+immersiveengineering:metal:31, Aluminium Plate
+immersiveengineering:metal:32, Lead Plate
+immersiveengineering:metal:33, Silver Plate
+immersiveengineering:metal:34, Nickel Plate
+immersiveengineering:metal:35, Uranium Plate
+immersiveengineering:metal:36, Constantan Plate
+immersiveengineering:metal:37, Electrum Plate
+immersiveengineering:metal:38, Steel Plate
+immersiveengineering:metal:39, Iron Plate
+immersiveengineering:metal:40, Gold Plate
+immersiveengineering:tool:0, Engineer's Hammer
+immersiveengineering:tool:1, Engineer's Wire Cutters
+immersiveengineering:tool:2, Engineer's Voltmeter
+immersiveengineering:tool:3, Engineer's Manual
+immersiveengineering:pickaxe_steel, Steel Pickaxe
+immersiveengineering:shovel_steel, Steel Shovel
+immersiveengineering:axe_steel, Steel Axe
+immersiveengineering:hoe_steel, Steel Hoe
+immersiveengineering:sword_steel, Steel Sword
+immersiveengineering:toolbox, Engineer's Toolbox
+immersiveengineering:wirecoil:0, LV Wire Coil
+immersiveengineering:wirecoil:1, MV Wire Coil
+immersiveengineering:wirecoil:2, HV Wire Coil
+immersiveengineering:wirecoil:3, Hemp Rope Coil
+immersiveengineering:wirecoil:4, Steel Cable Coil
+immersiveengineering:wirecoil:5, Redstone Wire Coil
+immersiveengineering:wirecoil:6, Insulated LV Wire Coil
+immersiveengineering:wirecoil:7, Insulated MV Wire Coil
+immersiveengineering:seed:0, Industrial Hemp Seeds
+immersiveengineering:drill:0, Mining Drill
+immersiveengineering:drillhead:0, Steel Drill Head
+immersiveengineering:drillhead:1, Iron Drill Head
+immersiveengineering:jerrycan, Jerrycan
+immersiveengineering:mold:0, Metal Press Mold: Plate
+immersiveengineering:mold:1, Metal Press Mold: Gear
+immersiveengineering:mold:2, Metal Press Mold: Rod
+immersiveengineering:mold:3, Metal Press Mold: Bullet Casing
+immersiveengineering:mold:4, Metal Press Mold: Wire
+immersiveengineering:mold:5, Metal Press Mold: Packing 2x2
+immersiveengineering:mold:6, Metal Press Mold: Packing 3x3
+immersiveengineering:mold:7, Metal Press Mold: Unpacking
+immersiveengineering:blueprint, Engineer's Blueprint
+immersiveengineering:revolver, Revolver
+immersiveengineering:speedloader, Revolver Speedloader
+immersiveengineering:bullet:0, Empty Casing
+immersiveengineering:bullet:1, Empty Shell
+immersiveengineering:bullet:2, Casull Cartridge
+immersiveengineering:bullet:2, Armor-Piercing Cartridge
+immersiveengineering:bullet:2, Buckshot Cartridge
+immersiveengineering:bullet:2, High-Explosive Cartridge
+immersiveengineering:bullet:2, Silver Cartridge
+immersiveengineering:bullet:2, Dragon's Breath Cartridge
+immersiveengineering:bullet:2, Phial Cartridge
+immersiveengineering:bullet:2, Flare Cartridge
+immersiveengineering:chemthrower, Chemical Thrower
+immersiveengineering:railgun, Railgun
+immersiveengineering:skyhook, Engineer's Skyhook
+immersiveengineering:toolupgrade:0, Pressurized Air Tank
+immersiveengineering:toolupgrade:1, Advanced Lubrication System
+immersiveengineering:toolupgrade:2, Additional Augers
+immersiveengineering:toolupgrade:3, Large Tank
+immersiveengineering:toolupgrade:4, Bayonet
+immersiveengineering:toolupgrade:5, Extended Magazine
+immersiveengineering:toolupgrade:6, Amplifier Electron Tubes
+immersiveengineering:toolupgrade:7, Focused Nozzle
+immersiveengineering:toolupgrade:8, Precision Scope
+immersiveengineering:toolupgrade:9, Additional Capacitors
+immersiveengineering:toolupgrade:10, Flashbulb
+immersiveengineering:toolupgrade:11, Shock Emitters
+immersiveengineering:toolupgrade:12, Magnetic Glove
+immersiveengineering:toolupgrade:13, Multitank
+immersiveengineering:shader, Shader
+immersiveengineering:shader_bag, Shader Grabbag
+immersiveengineering:earmuffs, Ear Defenders
+immersiveengineering:coresample, Core Sample
+immersiveengineering:graphite_electrode, Graphite Electrode
+immersiveengineering:faraday_suit_feet, Faraday Boots
+immersiveengineering:faraday_suit_legs, Faraday Leggings
+immersiveengineering:faraday_suit_chest, Faraday Chestplate
+immersiveengineering:faraday_suit_head, Faraday Helmet
+immersiveengineering:fluorescent_tube, Fluorescent Tube
+immersiveengineering:powerpack, Capacitor Backpack
+immersiveengineering:shield, Heavy Plated Shield
+immersiveengineering:maintenance_kit, Maintenance Kit
+immersiveengineering:steel_armor_feet, Steel Boots
+immersiveengineering:steel_armor_legs, Steel Leggings
+immersiveengineering:steel_armor_chest, Steel Chestplate
+immersiveengineering:steel_armor_head, Steel Helmet
+immersiveengineering:metal_device0:0, LV Capacitor
+immersiveengineering:metal_device0:1, MV Capacitor
+immersiveengineering:metal_device0:2, HV Capacitor
+immersiveengineering:metal_device0:3, Creative Capacitor
+immersiveengineering:metal_device0:4, Metal Barrel
+immersiveengineering:metal_device0:5, Fluid Pump
+immersiveengineering:metal_device0:6, Fluid Outlet
+immersiveengineering:metal_device1:0, Blast Furnace Preheater
+immersiveengineering:metal_device1:1, External Heater
+immersiveengineering:metal_device1:2, Kinetic Dynamo
+immersiveengineering:metal_device1:3, Thermoelectric Generator
+immersiveengineering:metal_device1:4, Powered Lantern
+immersiveengineering:metal_device1:5, Charging Station
+immersiveengineering:metal_device1:6, Fluid Pipe
+immersiveengineering:metal_device1:7, Core Sample Drill
+immersiveengineering:metal_device1:8, Tesla Coil
+immersiveengineering:metal_device1:9, Floodlight
+immersiveengineering:metal_device1:10, Chemthrower Turret
+immersiveengineering:metal_device1:11, Gun Turret
+immersiveengineering:metal_device1:13, Garden Cloche
+immersivecables:coil_block:0, Fluix Coil Block
+immersivecables:coil_block:1, Dense Fluix Coil Block
+immersivecables:coil_block:2, Quartz Fiber Coil Block
+immersivecables:coil_block:3, Refined Fiber Coil Block
+immersivecables:wire_coil:0, Fluix Wire Coil
+immersivecables:wire_coil:1, Dense Fluix Wire Coil
+immersivecables:wire_coil:2, Quartz Fiber Wire Coil
+immersivecables:wire_coil:3, Refined Fiber Wire Coil
+immersivecables:transformer_fluix:0, Fluix Transformer
+immersivecables:transformer_fluix:1, Dense Fluix Transformer
+immersivecables:relay_fluix:0, Fluix Wire Relay
+immersivecables:relay_fluix:1, Dense Fluix Wire Relay
+immersivecables:connector_quartz, Quartz Fiber Connector
+immersivepetroleum:metal_device:0, Automatic Lubricator
+immersivepetroleum:metal_device:1, Portable Generator
+immersivepetroleum:stone_decoration, tile.immersivepetroleum.stone_decoration.name
+immersivepetroleum:material:0, Bitumen
+immersivepetroleum:schematic, %s Projector
+immersivepetroleum:speedboat, Motorboat
+immersivepetroleum:upgrades:0, Reinforced Hull
+immersivepetroleum:upgrades:1, Icebreaker Bow
+immersivepetroleum:upgrades:2, Expanded Fuel Tank
+immersivepetroleum:upgrades:3, Maneuvering Rudders
+immersivepetroleum:upgrades:4, Emergency Paddles
+immersivepetroleum:oil_can, Lubricant Can
+immersiveposts:postbase, Extendable Post
+immersiveposts:fence_iron, Iron Fence
+immersiveposts:fence_gold, Gold Fence
+immersiveposts:fence_copper, Copper Fence
+immersiveposts:fence_lead, Lead Fence
+immersiveposts:fence_silver, Silver Fence
+immersiveposts:fence_nickel, Nickel Fence
+immersiveposts:fence_constantan, Constantan Fence
+immersiveposts:fence_electrum, Electrum Fence
+immersiveposts:fence_uranium, Uranium Fence
+immersiveposts:metal_rods:0, Gold Rod
+immersiveposts:metal_rods:1, Copper Rod
+immersiveposts:metal_rods:2, Lead Rod
+immersiveposts:metal_rods:3, Silver Rod
+immersiveposts:metal_rods:4, Nickel Rod
+immersiveposts:metal_rods:5, Constantan Rod
+immersiveposts:metal_rods:6, Electrum Rod
+immersiveposts:metal_rods:7, Uranium Rod
 littleframes:creative_frame, Creative Frame
 littletiles:hammer:0, Little Hammer
 littletiles:recipeadvanced:0, Little Blueprint
@@ -5440,6 +6083,20 @@ littletiles:ltsinglecable, tile.ltsinglecable.name
 littletiles:ltinput, tile.ltinput.name
 littletiles:ltoutput, tile.ltoutput.name
 littletiles:signal_converter, Signal Converter
+immersivetech:connectors, tile.immersivetech.connectors.name
+immersivetech:metal_trash:0, Trash Can
+immersivetech:metal_trash:1, Fluid Trash Can
+immersivetech:metal_trash:2, Energy Trash Can
+immersivetech:metal_barrel:0, Creative Metal Barrel
+immersivetech:metal_barrel:1, Open Metal Barrel
+immersivetech:metal_barrel:2, Steel Metal Barrel
+immersivetech:valve:0, Fluid Valve
+immersivetech:valve:1, Load Controller
+immersivetech:valve:2, Stack Limiter
+immersivetech:stone_decoration, tile.immersivetech.stone_decoration.name
+immersivetech:stone_decoration_slab, tile.immersivetech.stone_decoration_slab.name
+immersivetech:wooden_crate, tile.immersivetech.wooden_crate.name
+immersivetech:material:0, Salt
 bq_standard:loot_chest, Loot Chest
 undergroundbiomes:lignite_coal, Lignite
 undergroundbiomes:fossil_piece:0, Ammonite fossil
@@ -5954,246 +6611,6 @@ undergroundbiomes:sedimentary_stone_stairs:4, Lignite Block Stairs
 undergroundbiomes:sedimentary_stone_stairs:5, Dolomite Stairs
 undergroundbiomes:sedimentary_stone_stairs:6, Greywacke Stairs
 undergroundbiomes:sedimentary_stone_stairs:7, Chert Stairs
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:0, Red Granite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:1, Black Granite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:2, Rhyolite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:3, Andesite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:4, Gabbro Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:5, Basalt Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:6, Komatiite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:7, Dacite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:0, Gneiss Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:1, Eclogite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:2, Marble Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:3, Quartzite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:4, Blue Schist Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:5, Green Schist Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:6, Soapstone Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:7, Migmatite Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:0, Limestone Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:1, Chalk Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:2, Shale Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:3, Siltstone Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:4, Lignite Block Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:5, Dolomite Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:6, Greywacke Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:7, Chert Ruby Ore
-undergroundbiomes:igneous_stone_iron_ore:0, Red Granite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:1, Black Granite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:2, Rhyolite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:3, Andesite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:4, Gabbro Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:5, Basalt Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:6, Komatiite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:7, Dacite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:0, Gneiss Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:1, Eclogite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:2, Marble Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:3, Quartzite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:4, Blue Schist Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:5, Green Schist Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:6, Soapstone Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:7, Migmatite Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:0, Limestone Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:1, Chalk Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:2, Shale Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:3, Siltstone Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:4, Lignite Block Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:5, Dolomite Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:6, Greywacke Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:7, Chert Iron Ore
-undergroundbiomes:igneous_stone_redstone_ore:0, Red Granite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:1, Black Granite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:2, Rhyolite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:3, Andesite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:4, Gabbro Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:5, Basalt Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:6, Komatiite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:7, Dacite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:0, Gneiss Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:1, Eclogite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:2, Marble Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:3, Quartzite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:4, Blue Schist Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:5, Green Schist Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:6, Soapstone Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:7, Migmatite Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:0, Limestone Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:1, Chalk Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:2, Shale Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:3, Siltstone Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:4, Lignite Block Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:5, Dolomite Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:6, Greywacke Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:7, Chert Redstone Ore
-undergroundbiomes:igneous_stone_coal_ore:0, Red Granite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:1, Black Granite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:2, Rhyolite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:3, Andesite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:4, Gabbro Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:5, Basalt Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:6, Komatiite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:7, Dacite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:0, Gneiss Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:1, Eclogite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:2, Marble Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:3, Quartzite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:4, Blue Schist Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:5, Green Schist Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:6, Soapstone Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:7, Migmatite Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:0, Limestone Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:1, Chalk Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:2, Shale Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:3, Siltstone Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:4, Lignite Block Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:5, Dolomite Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:6, Greywacke Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:7, Chert Coal Ore
-undergroundbiomes:igneous_stone_diamond_ore:0, Red Granite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:1, Black Granite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:2, Rhyolite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:3, Andesite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:4, Gabbro Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:5, Basalt Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:6, Komatiite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:7, Dacite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:0, Gneiss Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:1, Eclogite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:2, Marble Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:3, Quartzite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:4, Blue Schist Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:5, Green Schist Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:6, Soapstone Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:7, Migmatite Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:0, Limestone Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:1, Chalk Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:2, Shale Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:3, Siltstone Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:4, Lignite Block Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:5, Dolomite Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:6, Greywacke Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:7, Chert Diamond Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:0, Red Granite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:1, Black Granite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:2, Rhyolite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:3, Andesite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:4, Gabbro Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:5, Basalt Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:6, Komatiite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:7, Dacite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:0, Gneiss Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:1, Eclogite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:2, Marble Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:3, Quartzite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:4, Blue Schist Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:5, Green Schist Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:6, Soapstone Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:7, Migmatite Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:0, Limestone Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:1, Chalk Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:2, Shale Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:3, Siltstone Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:4, Lignite Block Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:5, Dolomite Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:6, Greywacke Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:7, Chert Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:0, Red Granite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:1, Black Granite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:2, Rhyolite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:3, Andesite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:4, Gabbro Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:5, Basalt Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:6, Komatiite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:7, Dacite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:0, Gneiss Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:1, Eclogite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:2, Marble Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:3, Quartzite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:4, Blue Schist Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:5, Green Schist Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:6, Soapstone Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:7, Migmatite Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:0, Limestone Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:1, Chalk Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:2, Shale Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:3, Siltstone Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:4, Lignite Block Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:5, Dolomite Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:6, Greywacke Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:7, Chert Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:0, Red Granite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:1, Black Granite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:2, Rhyolite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:3, Andesite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:4, Gabbro Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:5, Basalt Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:6, Komatiite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:7, Dacite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:0, Gneiss Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:1, Eclogite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:2, Marble Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:3, Quartzite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:4, Blue Schist Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:5, Green Schist Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:6, Soapstone Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:7, Migmatite Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:0, Limestone Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:1, Chalk Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:2, Shale Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:3, Siltstone Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:4, Lignite Block Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:5, Dolomite Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:6, Greywacke Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:7, Chert Malachite Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:0, Red Granite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:1, Black Granite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:2, Rhyolite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:3, Andesite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:4, Gabbro Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:5, Basalt Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:6, Komatiite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:7, Dacite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:0, Gneiss Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:1, Eclogite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:2, Marble Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:3, Quartzite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:4, Blue Schist Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:5, Green Schist Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:6, Soapstone Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:7, Migmatite Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:0, Limestone Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:1, Chalk Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:2, Shale Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:3, Siltstone Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:4, Lignite Block Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:5, Dolomite Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:6, Greywacke Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:7, Chert Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:0, Red Granite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:1, Black Granite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:2, Rhyolite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:3, Andesite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:4, Gabbro Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:5, Basalt Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:6, Komatiite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:7, Dacite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:0, Gneiss Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:1, Eclogite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:2, Marble Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:3, Quartzite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:4, Blue Schist Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:5, Green Schist Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:6, Soapstone Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:7, Migmatite Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:0, Limestone Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:1, Chalk Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:2, Shale Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:3, Siltstone Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:4, Lignite Block Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:5, Dolomite Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:6, Greywacke Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:7, Chert Amber Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:0, Red Granite Certus Quartz Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:1, Black Granite Certus Quartz Ore
 undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:2, Rhyolite Certus Quartz Ore
@@ -6218,78 +6635,174 @@ undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:4, Lignite Bl
 undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:5, Dolomite Certus Quartz Ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:6, Greywacke Certus Quartz Ore
 undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:7, Chert Certus Quartz Ore
-undergroundbiomes:igneous_stone_emerald_ore:0, Red Granite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:1, Black Granite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:2, Rhyolite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:3, Andesite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:4, Gabbro Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:5, Basalt Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:6, Komatiite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:7, Dacite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:0, Gneiss Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:1, Eclogite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:2, Marble Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:3, Quartzite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:4, Blue Schist Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:5, Green Schist Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:6, Soapstone Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:7, Migmatite Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:0, Limestone Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:1, Chalk Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:2, Shale Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:3, Siltstone Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:4, Lignite Block Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:5, Dolomite Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:6, Greywacke Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:7, Chert Emerald Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:0, Red Granite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:1, Black Granite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:2, Rhyolite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:3, Andesite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:4, Gabbro Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:5, Basalt Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:6, Komatiite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:7, Dacite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:0, Gneiss Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:1, Eclogite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:2, Marble Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:3, Quartzite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:4, Blue Schist Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:5, Green Schist Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:6, Soapstone Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:7, Migmatite Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:0, Limestone Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:1, Chalk Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:2, Shale Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:3, Siltstone Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:4, Lignite Block Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:5, Dolomite Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:6, Greywacke Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:7, Chert Peridot Ore
-undergroundbiomes:igneous_stone_gold_ore:0, Red Granite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:1, Black Granite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:2, Rhyolite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:3, Andesite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:4, Gabbro Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:5, Basalt Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:6, Komatiite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:7, Dacite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:0, Gneiss Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:1, Eclogite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:2, Marble Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:3, Quartzite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:4, Blue Schist Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:5, Green Schist Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:6, Soapstone Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:7, Migmatite Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:0, Limestone Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:1, Chalk Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:2, Shale Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:3, Siltstone Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:4, Lignite Block Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:5, Dolomite Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:6, Greywacke Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:7, Chert Gold Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:0, Red Granite Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:1, Black Granite Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:2, Rhyolite Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:3, Andesite Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:4, Gabbro Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:5, Basalt Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:6, Komatiite Copper Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore:7, Dacite Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:0, Gneiss Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:1, Eclogite Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:2, Marble Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:3, Quartzite Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:4, Blue Schist Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:5, Green Schist Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:6, Soapstone Copper Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore:7, Migmatite Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:0, Limestone Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:1, Chalk Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:2, Shale Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:3, Siltstone Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:4, Lignite Block Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:5, Dolomite Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:6, Greywacke Copper Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore:7, Chert Copper Ore
+undergroundbiomes:igneous_stone_coal_ore:0, Red Granite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:1, Black Granite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:2, Rhyolite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:3, Andesite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:4, Gabbro Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:5, Basalt Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:6, Komatiite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:7, Dacite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:0, Gneiss Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:1, Eclogite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:2, Marble Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:3, Quartzite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:4, Blue Schist Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:5, Green Schist Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:6, Soapstone Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:7, Migmatite Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:0, Limestone Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:1, Chalk Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:2, Shale Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:3, Siltstone Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:4, Lignite Block Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:5, Dolomite Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:6, Greywacke Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:7, Chert Coal Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:0, Red Granite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:1, Black Granite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:2, Rhyolite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:3, Andesite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:4, Gabbro Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:5, Basalt Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:6, Komatiite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:7, Dacite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:0, Gneiss Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:1, Eclogite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:2, Marble Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:3, Quartzite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:4, Blue Schist Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:5, Green Schist Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:6, Soapstone Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:7, Migmatite Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:0, Limestone Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:1, Chalk Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:2, Shale Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:3, Siltstone Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:4, Lignite Block Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:5, Dolomite Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:6, Greywacke Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:7, Chert Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:0, Red Granite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:1, Black Granite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:2, Rhyolite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:3, Andesite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:4, Gabbro Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:5, Basalt Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:6, Komatiite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:7, Dacite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:0, Gneiss Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:1, Eclogite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:2, Marble Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:3, Quartzite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:4, Blue Schist Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:5, Green Schist Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:6, Soapstone Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:7, Migmatite Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:0, Limestone Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:1, Chalk Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:2, Shale Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:3, Siltstone Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:4, Lignite Block Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:5, Dolomite Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:6, Greywacke Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:7, Chert Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:0, Red Granite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:1, Black Granite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:2, Rhyolite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:3, Andesite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:4, Gabbro Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:5, Basalt Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:6, Komatiite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:7, Dacite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:0, Gneiss Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:1, Eclogite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:2, Marble Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:3, Quartzite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:4, Blue Schist Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:5, Green Schist Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:6, Soapstone Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:7, Migmatite Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:0, Limestone Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:1, Chalk Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:2, Shale Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:3, Siltstone Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:4, Lignite Block Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:5, Dolomite Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:6, Greywacke Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:7, Chert Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:0, Red Granite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:1, Black Granite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:2, Rhyolite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:3, Andesite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:4, Gabbro Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:5, Basalt Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:6, Komatiite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:7, Dacite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:0, Gneiss Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:1, Eclogite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:2, Marble Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:3, Quartzite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:4, Blue Schist Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:5, Green Schist Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:6, Soapstone Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:7, Migmatite Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:0, Limestone Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:1, Chalk Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:2, Shale Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:3, Siltstone Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:4, Lignite Block Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:5, Dolomite Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:6, Greywacke Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:7, Chert Ruby Ore
+undergroundbiomes:igneous_stone_redstone_ore:0, Red Granite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:1, Black Granite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:2, Rhyolite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:3, Andesite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:4, Gabbro Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:5, Basalt Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:6, Komatiite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:7, Dacite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:0, Gneiss Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:1, Eclogite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:2, Marble Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:3, Quartzite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:4, Blue Schist Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:5, Green Schist Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:6, Soapstone Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:7, Migmatite Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:0, Limestone Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:1, Chalk Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:2, Shale Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:3, Siltstone Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:4, Lignite Block Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:5, Dolomite Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:6, Greywacke Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:7, Chert Redstone Ore
 undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:0, Red Granite Tanzanite Ore
 undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:1, Black Granite Tanzanite Ore
 undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:2, Rhyolite Tanzanite Ore
@@ -6314,6 +6827,102 @@ undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:4, Lignite Block 
 undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:5, Dolomite Tanzanite Ore
 undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:6, Greywacke Tanzanite Ore
 undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:7, Chert Tanzanite Ore
+undergroundbiomes:igneous_stone_iron_ore:0, Red Granite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:1, Black Granite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:2, Rhyolite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:3, Andesite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:4, Gabbro Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:5, Basalt Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:6, Komatiite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:7, Dacite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:0, Gneiss Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:1, Eclogite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:2, Marble Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:3, Quartzite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:4, Blue Schist Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:5, Green Schist Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:6, Soapstone Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:7, Migmatite Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:0, Limestone Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:1, Chalk Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:2, Shale Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:3, Siltstone Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:4, Lignite Block Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:5, Dolomite Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:6, Greywacke Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:7, Chert Iron Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:0, Red Granite Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:1, Black Granite Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:2, Rhyolite Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:3, Andesite Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:4, Gabbro Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:5, Basalt Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:6, Komatiite Uranium Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_5:7, Dacite Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:0, Gneiss Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:1, Eclogite Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:2, Marble Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:3, Quartzite Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:4, Blue Schist Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:5, Green Schist Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:6, Soapstone Uranium Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_5:7, Migmatite Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:0, Limestone Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:1, Chalk Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:2, Shale Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:3, Siltstone Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:4, Lignite Block Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:5, Dolomite Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:6, Greywacke Uranium Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_5:7, Chert Uranium Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:0, Red Granite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:1, Black Granite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:2, Rhyolite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:3, Andesite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:4, Gabbro Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:5, Basalt Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:6, Komatiite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:7, Dacite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:0, Gneiss Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:1, Eclogite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:2, Marble Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:3, Quartzite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:4, Blue Schist Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:5, Green Schist Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:6, Soapstone Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:7, Migmatite Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:0, Limestone Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:1, Chalk Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:2, Shale Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:3, Siltstone Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:4, Lignite Block Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:5, Dolomite Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:6, Greywacke Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:7, Chert Topaz Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:0, Red Granite Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:1, Black Granite Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:2, Rhyolite Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:3, Andesite Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:4, Gabbro Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:5, Basalt Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:6, Komatiite Bauxite Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_1:7, Dacite Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:0, Gneiss Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:1, Eclogite Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:2, Marble Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:3, Quartzite Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:4, Blue Schist Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:5, Green Schist Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:6, Soapstone Bauxite Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_1:7, Migmatite Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:0, Limestone Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:1, Chalk Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:2, Shale Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:3, Siltstone Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:4, Lignite Block Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:5, Dolomite Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:6, Greywacke Bauxite Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_1:7, Chert Bauxite Ore
 undergroundbiomes:igneous_stone_lapis_ore:0, Red Granite Lapis Lazuli Ore
 undergroundbiomes:igneous_stone_lapis_ore:1, Black Granite Lapis Lazuli Ore
 undergroundbiomes:igneous_stone_lapis_ore:2, Rhyolite Lapis Lazuli Ore
@@ -6338,6 +6947,198 @@ undergroundbiomes:sedimentary_stone_lapis_ore:4, Lignite Block Lapis Lazuli Ore
 undergroundbiomes:sedimentary_stone_lapis_ore:5, Dolomite Lapis Lazuli Ore
 undergroundbiomes:sedimentary_stone_lapis_ore:6, Greywacke Lapis Lazuli Ore
 undergroundbiomes:sedimentary_stone_lapis_ore:7, Chert Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:0, Red Granite Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:1, Black Granite Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:2, Rhyolite Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:3, Andesite Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:4, Gabbro Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:5, Basalt Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:6, Komatiite Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_2:7, Dacite Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:0, Gneiss Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:1, Eclogite Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:2, Marble Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:3, Quartzite Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:4, Blue Schist Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:5, Green Schist Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:6, Soapstone Lead Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_2:7, Migmatite Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:0, Limestone Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:1, Chalk Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:2, Shale Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:3, Siltstone Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:4, Lignite Block Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:5, Dolomite Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:6, Greywacke Lead Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_2:7, Chert Lead Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:0, Red Granite Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:1, Black Granite Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:2, Rhyolite Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:3, Andesite Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:4, Gabbro Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:5, Basalt Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:6, Komatiite Nickel Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_4:7, Dacite Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:0, Gneiss Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:1, Eclogite Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:2, Marble Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:3, Quartzite Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:4, Blue Schist Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:5, Green Schist Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:6, Soapstone Nickel Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_4:7, Migmatite Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:0, Limestone Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:1, Chalk Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:2, Shale Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:3, Siltstone Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:4, Lignite Block Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:5, Dolomite Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:6, Greywacke Nickel Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_4:7, Chert Nickel Ore
+undergroundbiomes:igneous_stone_gold_ore:0, Red Granite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:1, Black Granite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:2, Rhyolite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:3, Andesite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:4, Gabbro Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:5, Basalt Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:6, Komatiite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:7, Dacite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:0, Gneiss Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:1, Eclogite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:2, Marble Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:3, Quartzite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:4, Blue Schist Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:5, Green Schist Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:6, Soapstone Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:7, Migmatite Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:0, Limestone Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:1, Chalk Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:2, Shale Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:3, Siltstone Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:4, Lignite Block Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:5, Dolomite Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:6, Greywacke Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:7, Chert Gold Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:0, Red Granite Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:1, Black Granite Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:2, Rhyolite Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:3, Andesite Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:4, Gabbro Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:5, Basalt Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:6, Komatiite Silver Ore
+undergroundbiomes:igneous_stone_immersiveengineering_ore_3:7, Dacite Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:0, Gneiss Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:1, Eclogite Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:2, Marble Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:3, Quartzite Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:4, Blue Schist Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:5, Green Schist Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:6, Soapstone Silver Ore
+undergroundbiomes:metamorphic_stone_immersiveengineering_ore_3:7, Migmatite Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:0, Limestone Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:1, Chalk Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:2, Shale Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:3, Siltstone Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:4, Lignite Block Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:5, Dolomite Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:6, Greywacke Silver Ore
+undergroundbiomes:sedimentary_stone_immersiveengineering_ore_3:7, Chert Silver Ore
+undergroundbiomes:igneous_stone_diamond_ore:0, Red Granite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:1, Black Granite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:2, Rhyolite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:3, Andesite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:4, Gabbro Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:5, Basalt Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:6, Komatiite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:7, Dacite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:0, Gneiss Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:1, Eclogite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:2, Marble Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:3, Quartzite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:4, Blue Schist Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:5, Green Schist Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:6, Soapstone Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:7, Migmatite Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:0, Limestone Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:1, Chalk Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:2, Shale Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:3, Siltstone Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:4, Lignite Block Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:5, Dolomite Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:6, Greywacke Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:7, Chert Diamond Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:0, Red Granite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:1, Black Granite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:2, Rhyolite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:3, Andesite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:4, Gabbro Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:5, Basalt Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:6, Komatiite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:7, Dacite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:0, Gneiss Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:1, Eclogite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:2, Marble Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:3, Quartzite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:4, Blue Schist Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:5, Green Schist Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:6, Soapstone Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:7, Migmatite Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:0, Limestone Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:1, Chalk Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:2, Shale Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:3, Siltstone Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:4, Lignite Block Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:5, Dolomite Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:6, Greywacke Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:7, Chert Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:0, Red Granite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:1, Black Granite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:2, Rhyolite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:3, Andesite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:4, Gabbro Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:5, Basalt Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:6, Komatiite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:7, Dacite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:0, Gneiss Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:1, Eclogite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:2, Marble Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:3, Quartzite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:4, Blue Schist Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:5, Green Schist Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:6, Soapstone Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:7, Migmatite Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:0, Limestone Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:1, Chalk Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:2, Shale Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:3, Siltstone Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:4, Lignite Block Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:5, Dolomite Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:6, Greywacke Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:7, Chert Peridot Ore
+undergroundbiomes:igneous_stone_emerald_ore:0, Red Granite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:1, Black Granite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:2, Rhyolite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:3, Andesite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:4, Gabbro Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:5, Basalt Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:6, Komatiite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:7, Dacite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:0, Gneiss Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:1, Eclogite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:2, Marble Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:3, Quartzite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:4, Blue Schist Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:5, Green Schist Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:6, Soapstone Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:7, Migmatite Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:0, Limestone Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:1, Chalk Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:2, Shale Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:3, Siltstone Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:4, Lignite Block Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:5, Dolomite Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:6, Greywacke Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:7, Chert Emerald Ore
 davincisvessels:securedbed, Secured Bed
 davincisvessels:marker, Ship's Helm
 davincisvessels:floater, Floater
