@@ -3929,3 +3929,36 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [12:24:40] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [12:24:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
 [12:24:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:26:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [TristanPoland: Set the time to 1000]
+[12:26:10] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[12:27:15] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[12:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:27:58] [Client thread/INFO] [STDOUT]: [xaero.common.cache.BlockStateShortShapeCache:isShort:54]: (Minimap) Defaulting world-dependent block state shape to not short: 512
+[12:27:58] [Client thread/INFO] [STDOUT]: [xaero.common.minimap.write.MinimapWriter:loadBlockColourFromTexture:1492]: Exception when loading dynamictreesbop:redwoodbranch texture, using material colour.
+[12:27:58] [Client thread/INFO] [STDOUT]: [xaero.common.minimap.write.MinimapWriter:loadBlockColourFromTexture:1494]: Didn't pass the unlisted property check.
+[12:28:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[12:28:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:28:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:28:37] [Netty Local Client IO #1/INFO] [EnderCore]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[12:28:37] [Netty Local Client IO #1/INFO] [discordcraft]: Server Disconnect
+[12:28:37] [Client thread/INFO] [STDOUT]: [xaero.map.WorldMapSession:cleanup:47]: Finalizing world map session...
+[12:28:37] [Thread-12/INFO] [STDOUT]: [xaero.map.MapProcessor:forceClean:1363]: World map force-cleaned!
+[12:28:37] [Client thread/INFO] [STDOUT]: [xaero.map.WorldMapSession:cleanup:57]: World map session finalized.
+[12:28:37] [Client thread/INFO] [STDOUT]: [xaero.common.XaeroMinimapSession:cleanup:68]: Minimap session finalized.
+[12:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[12:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[12:28:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TristanPoland lost connection: Disconnected
+[12:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TristanPoland left the game
+[12:28:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[12:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[12:28:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:28:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:28:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[12:28:38] [Server thread/INFO] [FML]: Unloading dimension 2
+[12:28:40] [Server thread/INFO] [FML]: Applying holder lookups
+[12:28:40] [Server thread/INFO] [FML]: Holder lookups applied
+[12:28:40] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:350]: 10 Blocks in World : 0
+[12:28:40] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:352]: Blocks queued for redo: 10
+[12:28:40] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[12:28:50] [Client thread/INFO] [STDOUT]: [de.keksuccino.fancymenu.menu.animation.AnimationHandlerEvents:onGuiOpen:38]: [FANCYMENU] Updating animation sizes..
