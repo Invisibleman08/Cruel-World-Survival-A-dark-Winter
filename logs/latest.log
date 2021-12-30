@@ -4971,3 +4971,29 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [15:47:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [TristanPoland: Set the time to 1000]
 [15:47:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
 [16:04:05] [Client thread/INFO] [STDOUT]: [xaero.map.cache.BlockStateShortShapeCache:isShort:52]: (World Map) Defaulting world-dependent block state shape to not short: 41066
+[16:05:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [TristanPoland: Set the time to 1000]
+[16:05:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[16:06:27] [Netty Local Client IO #2/INFO] [EnderCore]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[16:06:27] [Netty Local Client IO #2/INFO] [discordcraft]: Server Disconnect
+[16:06:27] [Client thread/INFO] [STDOUT]: [xaero.map.WorldMapSession:cleanup:47]: Finalizing world map session...
+[16:06:27] [Thread-21/INFO] [STDOUT]: [xaero.map.MapProcessor:forceClean:1363]: World map force-cleaned!
+[16:06:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TristanPoland lost connection: Disconnected
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TristanPoland left the game
+[16:06:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[16:06:27] [Client thread/INFO] [STDOUT]: [xaero.map.WorldMapSession:cleanup:57]: World map session finalized.
+[16:06:27] [Client thread/INFO] [STDOUT]: [xaero.common.XaeroMinimapSession:cleanup:68]: Minimap session finalized.
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[16:06:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[16:06:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:06:27] [Server thread/INFO] [FML]: Unloading dimension 2
+[16:06:29] [Server thread/INFO] [FML]: Applying holder lookups
+[16:06:29] [Server thread/INFO] [FML]: Holder lookups applied
+[16:06:29] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:352]: Blocks queued for redo: 0
+[16:06:29] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[16:06:36] [Client thread/INFO] [STDOUT]: [de.keksuccino.fancymenu.menu.animation.AnimationHandlerEvents:onGuiOpen:38]: [FANCYMENU] Updating animation sizes..
+[16:06:57] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[16:06:57] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[16:06:57] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
