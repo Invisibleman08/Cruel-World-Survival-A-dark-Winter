@@ -1,0 +1,101 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/overlay.png
+  orientation = bottom-centered
+  x = -80
+  width = 161
+  actionid = e84f5413-c87e-46ba-88d3-b754ac3a1a041640894266119
+  action = addtexture
+  y = -45
+  height = 45
+}
+
+customization {
+  path = resources/projectlogo.gif
+  orientation = bottom-centered
+  x = -78
+  width = 42
+  actionid = fdb7579e-d6e3-4636-bf54-2f21440582ad1640894344216
+  action = addtexture
+  y = -43
+  height = 42
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -25
+  actionid = 21c9b4b3-1353-40d0-bcc0-be2ea47222891640894408458
+  action = addtext
+  y = -40
+  scale = 1.0
+  alignment = left
+  value = CWS: A Cruel Winter
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -28
+  width = 100
+  actionid = 09986f89-635a-4a69-bb6b-cc15b88ccd401640894524319
+  action = addbutton
+  y = -27
+  label = See online
+  value = https://gameplex-software.github.io/get-story
+  height = 20
+}
+
+customization {
+  showname = true
+  orientation = bottom-left
+  crouching = false
+  x = 31
+  slim = false
+  actionid = 39c27a54-364c-4999-904d-576b85ab2f061640894687587
+  action = addentity
+  y = -8
+  scale = 30
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 56
+  actionid = 1f5c542e-a3bb-4e1a-9304-4595ae9c99ff1640894750479
+  action = addtext
+  y = -42
+  scale = 1.0
+  alignment = left
+  value = And %serverplayercount:<serverIP>% others
+}
+
+customization {
+  path = resources/snow.gif
+  orientation = top-left
+  x = -22
+  width = 1009
+  actionid = 0bbd2815-05e4-45f1-a7f8-2885e07d15af1640895507609
+  action = addtexture
+  y = -21
+  height = 583
+}
+
