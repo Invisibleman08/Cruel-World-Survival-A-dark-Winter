@@ -1,0 +1,265 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/overlay.png
+  orientation = top-centered
+  x = -224
+  width = 449
+  actionid = f560e894-2b54-49a6-9ffd-56912a3171cd1638484060153
+  action = addtexture
+  y = 26
+  height = 52
+}
+
+customization {
+  path = resources/logo.png
+  orientation = top-centered
+  x = -231
+  width = 467
+  actionid = efda8ffd-6983-4886-9ffe-e1112d3decd81638483968517
+  action = addtexture
+  y = 24
+  height = 61
+}
+
+customization {
+  path = resources/overlay.png
+  orientation = mid-right
+  x = -139
+  width = 139
+  actionid = 322f2fec-de38-43f3-bdcf-f62ecfc78c6f1638531180715
+  action = addtexture
+  y = -131
+  height = 269
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -111
+  actionid = 7bfb08b9-39d9-4768-b9a3-0e93614cc9e11638531227823
+  action = addtext
+  y = -125
+  scale = 1.0
+  alignment = left
+  value = Pack Developers
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -124
+  slim = false
+  actionid = a1554ca9-72f9-4522-b414-f4e7e120412c1638531255901
+  action = addentity
+  y = 27
+  scale = 20
+  playername = Writzi
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -125
+  slim = false
+  actionid = 6c651eb8-30e6-4566-84ba-eb78dd9715c11638531256752
+  action = addentity
+  y = -21
+  scale = 20
+  playername = tristanpoland
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -124
+  slim = false
+  actionid = dd451f0f-ca93-4224-b1e2-323a4990a0401638531256952
+  action = addentity
+  y = 77
+  scale = 20
+  playername = imaphoenix
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -125
+  slim = false
+  actionid = 0e450679-d409-4392-b7b3-9071d66c257a1638531257101
+  action = addentity
+  y = -68
+  scale = 20
+  playername = LiquidTea
+  parrot = false
+}
+
+customization {
+  path = resources/overlay.png
+  orientation = bottom-left
+  x = 0
+  width = 231
+  actionid = caed8d7f-1063-4ac4-9059-1504d54ab01a1638531580102
+  action = addtexture
+  y = -100
+  height = 100
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 76
+  actionid = 65592c43-3281-4d9b-848d-62811a714fdc1638531606706
+  action = addtext
+  y = -99
+  scale = 1.0
+  alignment = left
+  value = Debug Info
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = 5d0c2fc2-b5f5-41e1-a855-5f76aec075601638531644262
+  action = addtext
+  y = -83
+  scale = 1.0
+  alignment = left
+  value = Powered By: Forge
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = e0e45da2-0adc-41f5-9c15-7d99701874741638531673100
+  action = addtext
+  y = -72
+  scale = 1.0
+  alignment = left
+  value = Pack Status: OK
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = 6df789a3-d258-4ea0-9f87-ed129358aee71638531708756
+  action = addtext
+  y = -61
+  scale = 1.0
+  alignment = left
+  value = Cruel World Version: 0.0.1:SM
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = 73936292-6cab-4ffc-a69a-3af6dc5347bc1638531768798
+  action = addtext
+  y = -51
+  scale = 1.0
+  alignment = left
+  value = Mods Running: %loadedmods% / %totalmods%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = c0d5e40e-47d1-4469-8483-d4bc5a0acbb51638531803105
+  action = addtext
+  y = -41
+  scale = 1.0
+  alignment = left
+  value = Pack created by the CWS official Dev team
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = a1a56b66-a0ad-499c-8928-4628191e8e6b1638531838409
+  action = addtext
+  y = -31
+  scale = 1.0
+  alignment = left
+  value = Logged in as: %playername%
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -276
+  actionid = 312457f8-915c-4e4f-bdbd-6bff185b9db61638531884449
+  action = addtext
+  y = -25
+  scale = 1.0
+  alignment = left
+  value = Cruel World Survival is © The CWS Dev Team 2020-2021
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 825
+  width = 133
+  actionid = f6b96d53-8a50-4e51-b4ae-67a59cb4f76e1638531963873
+  action = addbutton
+  y = 391
+  label = Developers
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 825
+  width = 133
+  actionid = b83f5af1-453e-4cfb-abf3-787326dd28761638531971164
+  action = addbutton
+  y = 414
+  label = Credits
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -262
+  actionid = 5420e9f3-04d8-4ad2-88c5-e3ddbc6836761638532131856
+  action = addtext
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = Minecraft is
+}
+

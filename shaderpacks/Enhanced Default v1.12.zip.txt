@@ -1,0 +1,5 @@
+#Wed Nov 10 17:14:51 EST 2021
+animationSpeed=0.5
+grays_intensity=1.0
+MB_strength=0.008
+Refractions=true
