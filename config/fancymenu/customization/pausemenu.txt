@@ -77,25 +77,26 @@ customization {
 }
 
 customization {
-  orientation = bottom-left
-  shadow = false
-  x = 56
-  actionid = 1f5c542e-a3bb-4e1a-9304-4595ae9c99ff1640894750479
-  action = addtext
-  y = -42
-  scale = 1.0
-  alignment = left
-  value = And %serverplayercount:<serverIP>% others
-}
-
-customization {
   path = resources/snow.gif
   orientation = top-left
-  x = -22
+  x = -42
   width = 1009
   actionid = 0bbd2815-05e4-45f1-a7f8-2885e07d15af1640895507609
   action = addtexture
-  y = -21
+  y = -35
   height = 583
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 57
+  actionid = a9b0c926-2ce2-49fe-ace4-2b58652cad5d1640895756094
+  action = addtext
+  y = -42
+  scale = 1.0
+  vr:showif:singleplayer = false
+  alignment = left
+  value = And %serverplayercount:<serverIP>% others
 }
 

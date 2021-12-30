@@ -4963,3 +4963,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [15:21:09] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [15:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
 [15:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[15:23:17] [Client thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[15:23:17] [Client thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Started on 57166
+[15:23:17] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Local game hosted on port 57166
