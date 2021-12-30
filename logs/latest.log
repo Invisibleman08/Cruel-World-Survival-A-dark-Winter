@@ -3868,3 +3868,64 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [12:12:24] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [12:12:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
 [12:12:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:13:46] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 96 advancements
+[12:15:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [TristanPoland: Set the time to 1000]
+[12:15:23] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[12:17:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[12:17:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:17:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:17:54] [Client thread/INFO] [STDOUT]: [xaero.common.cache.BlockStateShortShapeCache:isShort:54]: (Minimap) Defaulting world-dependent block state shape to not short: 8246
+[12:19:27] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-145.0, 74.0, 116.0).
+[12:19:38] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-155.0, 69.0, 125.0).
+[12:19:39] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-155.0, 68.0, 125.0).
+[12:19:42] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-145.0, 74.0, 116.0) (770).
+[12:19:48] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 730 blocks changed. Undo with //undo
+[12:19:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Undo successful.
+[12:19:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 365 blocks changed. Undo with //undo
+[12:20:11] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Undo successful.
+[12:20:18] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-155.0, 69.0, 125.0) (2).
+[12:20:23] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-145.0, 74.0, 116.0) (660).
+[12:20:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 266 blocks changed. Undo with //undo
+[12:21:12] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-145.0, 80.0, 116.0) (1320).
+[12:21:17] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 524 blocks changed. Undo with //undo
+[12:21:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-154.0, 65.0, 127.0) (30).
+[12:21:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-154.0, 65.0, 127.0) (1).
+[12:21:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-148.0, 74.0, 115.0) (910).
+[12:21:54] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-153.0, 74.0, 107.0) (54).
+[12:21:57] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 42 blocks changed. Undo with //undo
+[12:22:04] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 14 blocks changed. Undo with //undo
+[12:22:09] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-148.0, 78.0, 116.0) (300).
+[12:22:11] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-148.0, 78.0, 108.0) (9).
+[12:22:14] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 45 blocks changed. Undo with //undo
+[12:22:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: <TristanPoland> 6
+[12:22:21] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] <TristanPoland> 6
+[12:22:30] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 18 blocks changed. Undo with //undo
+[12:22:36] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 18 blocks changed. Undo with //undo
+[12:22:39] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-153.0, 78.0, 107.0) (12).
+[12:22:42] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-153.0, 69.0, 107.0) (10).
+[12:22:47] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 40 blocks changed. Undo with //undo
+[12:22:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-151.0, 68.0, 110.0) (24).
+[12:22:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-149.0, 68.0, 110.0) (3).
+[12:22:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 6 blocks changed. Undo with //undo
+[12:22:58] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[12:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:22:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
+[12:23:01] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-151.0, 68.0, 108.0) (9).
+[12:23:03] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-151.0, 68.0, 116.0) (9).
+[12:23:07] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 36 blocks changed. Undo with //undo
+[12:23:09] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 9 blocks changed. Undo with //undo
+[12:23:11] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-156.0, 69.0, 116.0) (12).
+[12:23:13] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-152.0, 69.0, 108.0) (45).
+[12:23:19] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 25 block(s) have been replaced.
+[12:23:27] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-157.0, 69.0, 107.0) (12).
+[12:23:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-157.0, 77.0, 107.0) (9).
+[12:23:36] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 81 blocks changed. Undo with //undo
+[12:23:39] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-157.0, 77.0, 116.0) (10).
+[12:23:41] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-157.0, 69.0, 116.0) (9).
+[12:23:46] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 9 blocks changed. Undo with //undo
+[12:23:48] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] First position set to (-157.0, 69.0, 117.0) (2).
+[12:23:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Second position set to (-157.0, 77.0, 117.0) (9).
+[12:23:55] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 18 blocks changed. Undo with //undo
+[12:24:40] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[12:24:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/overworld
+[12:24:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'A world of Ice'/Storage Cell
