@@ -1,5 +1,6 @@
-#Fri Jan 14 12:28:52 EST 2022
+#Fri Jan 14 15:44:37 EST 2022
 animationSpeed=0.25
+Fog=false
 grays_intensity=1.0
 MB_strength=0.008
 Refractions=true

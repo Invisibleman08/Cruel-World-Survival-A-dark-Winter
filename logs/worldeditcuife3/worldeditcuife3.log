@@ -955,3 +955,171 @@
 [2022-01-14 14:31:42] [Netty Local Client IO #0/DEBUG] [fZ] Received CUI event from server: p|1|-140|60|59|3344
 [2022-01-14 14:31:42] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -140, 60, 59, 3344
 [2022-01-14 14:31:42] [Client thread/DEBUG] [gh] Cuboid command :p|1|-140|60|59|3344
+[2022-01-14 15:12:01] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:12:01] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-122|67|80|3344
+[2022-01-14 15:12:01] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-140|60|59|3344
+[2022-01-14 15:12:01] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:12:01] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:12:01] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -122, 67, 80, 3344
+[2022-01-14 15:12:01] [Client thread/DEBUG] [gh] Cuboid command :p|0|-122|67|80|3344
+[2022-01-14 15:12:01] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -140, 60, 59, 3344
+[2022-01-14 15:12:01] [Client thread/DEBUG] [gh] Cuboid command :p|1|-140|60|59|3344
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.12.2
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] Built with forge 14.23.5.2838
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] Environment :
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 		 OS :Mac OS X (x86_64) 
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 		 Java: 1.8.0_242
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 		 Language :US_en
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:21:45] [Client thread/INFO] [aT] 
+[2022-01-14 15:21:45] [Client thread/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-01-14 15:22:38] [Client thread/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-01-14 15:23:24] [Netty Local Client IO #0/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:23:25] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:23:25] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.12.2
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] Built with forge 14.23.5.2838
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] Environment :
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 		 OS :Mac OS X (x86_64) 
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 		 Java: 1.8.0_242
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 		 Language :US_en
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:26:46] [Client thread/INFO] [aT] 
+[2022-01-14 15:26:46] [Client thread/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-01-14 15:28:01] [Client thread/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.12.2
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] Built with forge 14.23.5.2838
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] Environment :
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 		 OS :Mac OS X (x86_64) 
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 		 Java: 1.8.0_242
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 		 Language :US_en
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:30:21] [Client thread/INFO] [aT] 
+[2022-01-14 15:30:21] [Client thread/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-01-14 15:31:39] [Client thread/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-01-14 15:33:01] [Netty Local Client IO #0/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:33:01] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:33:01] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.12.2
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] Built with forge 14.23.5.2838
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] Environment :
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 		 OS :Mac OS X (x86_64) 
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 		 Java: 1.8.0_242
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 		 Language :US_en
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:35:16] [Client thread/INFO] [aT] 
+[2022-01-14 15:35:16] [Client thread/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-01-14 15:36:06] [Client thread/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-01-14 15:36:42] [Netty Local Client IO #0/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:36:42] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:36:42] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.12.2
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] Built with forge 14.23.5.2838
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] Environment :
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 		 OS :Mac OS X (x86_64) 
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 		 Java: 1.8.0_242
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 		 Language :US_en
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] ******************************************************************************************
+[2022-01-14 15:39:42] [Client thread/INFO] [aT] 
+[2022-01-14 15:39:42] [Client thread/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-01-14 15:40:33] [Client thread/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-01-14 15:41:20] [Netty Local Client IO #0/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:41:20] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:41:20] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:43:22] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: s|cuboid
+[2022-01-14 15:43:22] [Client thread/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-01-14 15:43:22] [Client thread/DEBUG] [gh] Cuboid command :s|cuboid
+[2022-01-14 15:49:52] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-142|29|62|-1
+[2022-01-14 15:49:52] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -142, 29, 62, -1
+[2022-01-14 15:49:52] [Client thread/DEBUG] [gh] Cuboid command :p|0|-142|29|62|-1
+[2022-01-14 15:50:03] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-121|62|46|12716
+[2022-01-14 15:50:03] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -121, 62, 46, 12716
+[2022-01-14 15:50:03] [Client thread/DEBUG] [gh] Cuboid command :p|1|-121|62|46|12716
+[2022-01-14 16:01:03] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-134|63|59|392
+[2022-01-14 16:01:03] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -134, 63, 59, 392
+[2022-01-14 16:01:03] [Client thread/DEBUG] [gh] Cuboid command :p|0|-134|63|59|392
+[2022-01-14 16:01:08] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-124|63|48|132
+[2022-01-14 16:01:08] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -124, 63, 48, 132
+[2022-01-14 16:01:08] [Client thread/DEBUG] [gh] Cuboid command :p|1|-124|63|48|132
+[2022-01-14 16:03:05] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-124|87|48|3300
+[2022-01-14 16:03:05] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -124, 87, 48, 3300
+[2022-01-14 16:03:05] [Client thread/DEBUG] [gh] Cuboid command :p|1|-124|87|48|3300
+[2022-01-14 16:05:13] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-122|63|69|1650
+[2022-01-14 16:05:13] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -122, 63, 69, 1650
+[2022-01-14 16:05:13] [Client thread/DEBUG] [gh] Cuboid command :p|0|-122|63|69|1650
+[2022-01-14 16:05:21] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-137|64|46|768
+[2022-01-14 16:05:21] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -137, 64, 46, 768
+[2022-01-14 16:05:21] [Client thread/DEBUG] [gh] Cuboid command :p|1|-137|64|46|768
+[2022-01-14 16:06:20] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-120|62|69|1296
+[2022-01-14 16:06:20] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -120, 62, 69, 1296
+[2022-01-14 16:06:20] [Client thread/DEBUG] [gh] Cuboid command :p|0|-120|62|69|1296
+[2022-01-14 16:06:22] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-120|62|60|10
+[2022-01-14 16:06:22] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -120, 62, 60, 10
+[2022-01-14 16:06:22] [Client thread/DEBUG] [gh] Cuboid command :p|1|-120|62|60|10
+[2022-01-14 16:06:30] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-124|66|65|150
+[2022-01-14 16:06:30] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -124, 66, 65, 150
+[2022-01-14 16:06:30] [Client thread/DEBUG] [gh] Cuboid command :p|0|-124|66|65|150
+[2022-01-14 16:08:18] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-139|66|76|1700
+[2022-01-14 16:08:18] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -139, 66, 76, 1700
+[2022-01-14 16:08:18] [Client thread/DEBUG] [gh] Cuboid command :p|0|-139|66|76|1700
+[2022-01-14 16:08:19] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-142|66|76|4
+[2022-01-14 16:08:19] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -142, 66, 76, 4
+[2022-01-14 16:08:19] [Client thread/DEBUG] [gh] Cuboid command :p|1|-142|66|76|4
+[2022-01-14 16:08:34] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-138|66|78|15
+[2022-01-14 16:08:34] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -138, 66, 78, 15
+[2022-01-14 16:08:34] [Client thread/DEBUG] [gh] Cuboid command :p|0|-138|66|78|15
+[2022-01-14 16:08:34] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-138|66|78|1
+[2022-01-14 16:08:34] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -138, 66, 78, 1
+[2022-01-14 16:08:34] [Client thread/DEBUG] [gh] Cuboid command :p|1|-138|66|78|1
+[2022-01-14 16:09:11] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-137|66|69|20
+[2022-01-14 16:09:11] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -137, 66, 69, 20
+[2022-01-14 16:09:11] [Client thread/DEBUG] [gh] Cuboid command :p|0|-137|66|69|20
+[2022-01-14 16:09:11] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-137|66|69|1
+[2022-01-14 16:09:11] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -137, 66, 69, 1
+[2022-01-14 16:09:11] [Client thread/DEBUG] [gh] Cuboid command :p|1|-137|66|69|1
+[2022-01-14 16:09:32] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-138|66|69|2
+[2022-01-14 16:09:32] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -138, 66, 69, 2
+[2022-01-14 16:09:32] [Client thread/DEBUG] [gh] Cuboid command :p|0|-138|66|69|2
+[2022-01-14 16:09:36] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-142|66|69|5
+[2022-01-14 16:09:36] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -142, 66, 69, 5
+[2022-01-14 16:09:36] [Client thread/DEBUG] [gh] Cuboid command :p|1|-142|66|69|5
+[2022-01-14 16:09:37] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-143|66|69|6
+[2022-01-14 16:09:37] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -143, 66, 69, 6
+[2022-01-14 16:09:37] [Client thread/DEBUG] [gh] Cuboid command :p|1|-143|66|69|6
+[2022-01-14 16:09:40] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-137|66|69|7
+[2022-01-14 16:09:40] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -137, 66, 69, 7
+[2022-01-14 16:09:40] [Client thread/DEBUG] [gh] Cuboid command :p|0|-137|66|69|7
+[2022-01-14 16:09:53] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-138|65|68|24
+[2022-01-14 16:09:53] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -138, 65, 68, 24
+[2022-01-14 16:09:53] [Client thread/DEBUG] [gh] Cuboid command :p|0|-138|65|68|24
+[2022-01-14 16:09:54] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|1|-138|66|68|2
+[2022-01-14 16:09:54] [Client thread/DEBUG] [q] Received command from WE : p - Params: 1, -138, 66, 68, 2
+[2022-01-14 16:09:54] [Client thread/DEBUG] [gh] Cuboid command :p|1|-138|66|68|2
+[2022-01-14 16:09:54] [Netty Local Client IO #1/DEBUG] [fZ] Received CUI event from server: p|0|-138|66|68|1
+[2022-01-14 16:09:54] [Client thread/DEBUG] [q] Received command from WE : p - Params: 0, -138, 66, 68, 1
+[2022-01-14 16:09:54] [Client thread/DEBUG] [gh] Cuboid command :p|0|-138|66|68|1
