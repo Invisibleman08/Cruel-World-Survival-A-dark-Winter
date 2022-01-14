@@ -1,11 +1,11 @@
-#Thu Dec 30 11:49:15 EST 2021
-shaderPack=OFF
+#Fri Jan 14 12:29:13 EST 2022
+shaderPack=Enhanced Default v1.12.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
-renderResMul=1.0
-shadowResMul=1.5
-handDepthMul=0.125
+renderResMul=1.8
+shadowResMul=1.8
+handDepthMul=0.0625
 cloudShadow=false
 oldHandLight=default
 oldLighting=default

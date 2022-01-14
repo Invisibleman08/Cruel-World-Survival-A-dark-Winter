@@ -219,22 +219,22 @@ customization {
   width = 133
   actionid = f6b96d53-8a50-4e51-b4ae-67a59cb4f76e1638531963873
   action = addbutton
-  y = 92
+  y = 110
   label = Developers
   value = 
   height = 20
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-right
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 824
+  x = -136
   width = 133
   actionid = b83f5af1-453e-4cfb-abf3-787326dd28761638531971164
   action = addbutton
-  y = 385
+  y = 86
   label = Credits
   value = 
   height = 20

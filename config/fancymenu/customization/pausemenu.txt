@@ -77,17 +77,6 @@ customization {
 }
 
 customization {
-  path = resources/snow.gif
-  orientation = top-left
-  x = -42
-  width = 1009
-  actionid = 0bbd2815-05e4-45f1-a7f8-2885e07d15af1640895507609
-  action = addtexture
-  y = -35
-  height = 583
-}
-
-customization {
   orientation = bottom-left
   shadow = true
   x = 57
