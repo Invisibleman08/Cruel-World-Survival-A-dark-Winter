@@ -1,5 +1,5 @@
-#Fri Jan 14 15:44:39 EST 2022
-shaderPack=Enhanced Default v1.12.zip
+#Sat Jan 15 08:31:20 EST 2022
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
