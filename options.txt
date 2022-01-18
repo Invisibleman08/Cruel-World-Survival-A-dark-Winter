@@ -1,17 +1,17 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:-9.181976E-4
 gamma:0.0
 saturation:0.0
-renderDistance:13
+renderDistance:10
 guiScale:2
 particles:0
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:false
 ao:2
 renderClouds:fast
@@ -89,12 +89,19 @@ key_of.key.zoom:46
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :51
 key_key.betterquesting.quests:41
+key_Scene1 start/pause:79
+key_Scene2 start/pause:80
+key_Scene3 start/pause:81
+key_Scene reset:82
+key_Quest Log:38
 key_key.davincis.up:45
 key_key.davincis.down:44
 key_key.davincis.brake:0
 key_key.davincis.align:13
 key_key.davincis.decompile:43
 key_key.davincis.shipinv:37
+key_key.xu2.searchforitems:20
+key_key.fart.desc:34
 key_key.securitycraft.cameraZoomIn:13
 key_key.securitycraft.cameraZoomOut:12
 key_key.securitycraft.cameraEmitRedstone:19
@@ -146,6 +153,7 @@ key_key.little.mark:0
 key_key.little.config.item:0
 key_key.little.undo:44:CONTROL
 key_key.little.redo:21:CONTROL
+key_Camping Inventory Key:34
 key_WorldEdit Reference:24
 key_worldeditcuife3.key.cui.options:0
 key_worldeditcuife3.key.cui.toggle.visibility:0
@@ -196,7 +204,7 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

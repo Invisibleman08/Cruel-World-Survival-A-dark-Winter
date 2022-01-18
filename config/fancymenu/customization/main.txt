@@ -16,8 +16,8 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = top-centered
-  x = -176
-  width = 362
+  x = -351
+  width = 700
   actionid = f560e894-2b54-49a6-9ffd-56912a3171cd1638484060153
   action = addtexture
   y = 26
@@ -253,13 +253,13 @@ customization {
 }
 
 customization {
-  path = resources/logo_new.png
+  path = resources/logo.png
   orientation = top-centered
-  x = -192
-  width = 384
-  actionid = 5e5d305a-f539-47bf-b145-42710767dae91640878063142
+  x = -345
+  width = 691
+  actionid = 964c1ea8-72e2-4901-92c8-c09f003a6b281642439570030
   action = addtexture
-  y = 18
-  height = 62
+  y = 30
+  height = 43
 }
 

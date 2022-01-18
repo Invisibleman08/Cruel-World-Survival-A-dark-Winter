@@ -1,0 +1,13 @@
+{
+  "inventory": {
+    "0:0": "flansmod:ak74,1,0,{attachments:{barrel:{},grip:{},generic_0:{},scope:{},stock:{}},ammo:[{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:1b,Damage:0s}]}",
+    "0:7": "flansmod:ak74ammo,5",
+    "1:0": "flansmod:kskboots",
+    "0:2": "flansmod:mwriotshield,1,0,{attachments:{barrel:{},grip:{},scope:{},stock:{}},ammo:[{}]}",
+    "1:1": "flansmod:kskpants",
+    "0:8": "camping:bag,1,1,{RepairCost:0,display:{Name:\"Ammo Bag\"},items:[{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:5b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:14b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:21b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:13b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:12b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:3b},{ForgeCaps:{\"customnpcs:itemscripteddata\":{}},id:\"flansmod:ak74ammo\",Count:5b,Damage:0s,slotIndex:4b}]}",
+    "1:3": "flansmod:kskhelmet",
+    "1:2": "flansmod:juggernautbodybrown",
+    "0:1": "flansmod:mwknife,1,0,{attachments:{barrel:{},grip:{},scope:{},stock:{}},ammo:[{}]}"
+  }
+}

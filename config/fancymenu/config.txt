@@ -35,7 +35,7 @@ B:hideforgenotifications = 'true';
 S:splashcolor = '#ffff00';
 I:splashrotation = '-20';
 I:splashy = '0';
-I:splashx = '125';
+I:splashx = '250';
 B:hidesplashtext = 'false';
 S:splashtextfile = '';
 S:splashorientation = 'original';
@@ -62,7 +62,7 @@ B:customwindowicon = 'false';
 ##[layouteditor]
 
 I:gridsize = '10';
-B:editordeleteconfirmation = 'true';
+B:editordeleteconfirmation = 'false';
 B:showgrid = 'false';
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
 B:showvanillamovewarning = 'false';
