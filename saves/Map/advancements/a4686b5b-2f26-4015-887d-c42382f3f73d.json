@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2022-01-22 15:14:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-01-16 09:13:51 -0500"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2022-01-22 19:00:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2022-01-16 10:20:35 -0500"
@@ -338,6 +350,12 @@
   "camping:trap": {
     "criteria": {
       "trap_got": "2022-01-16 10:06:02 -0500"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2022-01-22 19:00:56 -0500"
     },
     "done": true
   },
@@ -511,6 +529,13 @@
       "entered_water": "2022-01-15 08:39:27 -0500"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2022-01-22 19:00:56 -0500",
+      "inv_changed-enderio:redstone_conduit2": "2022-01-22 15:14:30 -0500"
+    },
+    "done": false
   },
   "minecraft:nether/brew_potion": {
     "criteria": {

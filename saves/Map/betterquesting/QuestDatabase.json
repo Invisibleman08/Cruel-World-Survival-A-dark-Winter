@@ -1717,12 +1717,31 @@
           "desc:8": "Find the next enemy outpost using the classified information from the abandoned lab"
         }
       },
-      "tasks:9": {},
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invert:1": 0,
+          "range:3": 15,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": -307,
+          "posY:3": 76,
+          "posZ:3": 120,
+          "biome:8": "",
+          "name:8": "New Location",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        }
+      },
       "rewards:9": {}
     },
     "12:10": {
       "questID:3": 12,
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        11
+      ],
       "properties:10": {
         "betterquesting:10": {
           "issilent:1": 0,
@@ -1736,7 +1755,7 @@
             "ForgeCaps:10": {
               "customnpcs:itemscripteddata:10": {}
             },
-            "id:8": "minecraft:nether_star",
+            "id:8": "malisisdoors:rustyhatch",
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1748,20 +1767,20 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "The Belly of the Beast",
-          "desc:8": "No Description"
+          "desc:8": "Enter the enemy fallout shelter"
         }
       },
       "tasks:9": {
         "0:10": {
           "visible:1": 0,
           "invert:1": 0,
-          "range:3": -1,
+          "range:3": 4,
           "index:3": 0,
           "structure:8": "",
           "hideInfo:1": 0,
-          "posX:3": 0,
-          "posY:3": 0,
-          "posZ:3": 0,
+          "posX:3": -327,
+          "posY:3": 70,
+          "posZ:3": 116,
           "biome:8": "",
           "name:8": "New Location",
           "dimension:3": 0,

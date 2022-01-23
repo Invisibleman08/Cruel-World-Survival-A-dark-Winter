@@ -1,0 +1,37 @@
+[035.300] Kernel startup: phase 1
+[035.300] Initialized loadfile
+[035.300] Initialized term.*, write(), and print()
+[035.300] Loading filesystem API from /lib/filesystem.lua
+[035.350] Reinitializing loadfile
+[035.350] Kernel startup: stage 2
+[035.350] Setting up kernel hooks
+[035.350] Loading init from /sbin/init.lua
+[035.450] Starting init services
+[035.550] Loading /etc/init.d/00_base.lua
+[035.650] Loading /etc/init.d/10_event.lua
+[035.700] Loading /etc/init.d/20_read.lua
+[035.750] Loading /etc/init.d/30_errors.lua
+[035.800] Loading /etc/init.d/40_tables.lua
+[035.850] Loading /etc/init.d/50_modules.lua
+[035.950] Loading /etc/init.d/60_networking.lua
+[036.000] Checking for an internet card
+[036.050] Found internet card and created proxy
+[036.050] Loading /etc/init.d/70_filesystem.lua
+[036.150] Getting root filesystem address
+[036.250] Initializing mount system
+[036.350] Mounting filesystem f55c495e-2b53-403c-844b-90f20a0c085a at /
+[036.550] Mounting external filesystems
+[036.550] Mounting filesystem 0df1ff74-79a2-4031-b8c2-73989456f5c4 at /mnt/0df
+[036.750] Mounting filesystem ef489a28-5418-4375-8142-f8948992415e at /tmp
+[036.950] Mounting filesystem faa25301-907d-4587-a56e-8ca5221d96a8 at /mnt/faa
+[037.100] Loading /etc/init.d/80_multithreading.lua
+[037.200] Starting mineCORE
+[037.300] Checking for OpenRC configuration at /etc/openrc.cfg
+[037.400] Starting OpenRC service logd
+[037.500] Spawning process 2 with name logd
+[037.500] Starting shell
+[037.600] Spawning process 3 with name shell
+[038.250] Task logd died: cannot resume dead coroutine
+[042.450] Unmounting faa25301-907d-4587-a56e-8ca5221d96a8
+[042.500] Unmounting faa25301-907d-4587-a56e-8ca5221d96a8
+[072.000] Mounting filesystem 52e5dae5-2d40-41d7-ba40-1ca2fdd4785e at /mnt/52e

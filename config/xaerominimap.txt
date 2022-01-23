@@ -7,7 +7,7 @@ debugEntityIcons:false
 debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
-minimap:true
+minimap:false
 caveMaps:2
 caveZoom:1
 showWaypoints:true
@@ -16,14 +16,14 @@ displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
 distance:1
-showCoords:false
+showCoords:true
 lockNorth:false
 zoom:0
-minimapSize:144
+minimapSize:0
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
-minimapOpacity:74.0
+minimapOpacity:100.0
 waypointsIngameIconScale:0
 waypointsIngameDistanceScale:0
 waypointsIngameNameScale:0
@@ -60,7 +60,7 @@ biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
 centeredEnlarged:false
-zoomedOutEnlarged:true
+zoomedOutEnlarged:false
 minimapTextAlign:0
 showAngles:false
 waypointsMutualEdit:true
@@ -71,7 +71,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:1
+minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
@@ -79,8 +79,8 @@ lightOverlayColor:13
 uiScale:0
 bossHealthPushBox:1
 potionEffectPushBox:1
-minimapFrame:2
-minimapFrameColor:2
+minimapFrame:0
+minimapFrameColor:9
 compassColor:9
 showDimensionName:false
 displayMultipleWaypointInfo:1
