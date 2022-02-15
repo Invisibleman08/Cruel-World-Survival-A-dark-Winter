@@ -1,20 +1,20 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:-9.181976E-4
+fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:8
-guiScale:2
-particles:2
+renderDistance:12
+guiScale:3
+particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:120
 fboEnable:true
 difficulty:1
-fancyGraphics:false
-ao:1
-renderClouds:fast
+fancyGraphics:true
+ao:2
+renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -73,7 +73,7 @@ key_key.smoothCamera:0
 key_key.fullscreen:87
 key_key.spectatorOutlines:0
 key_key.swapHands:33
-key_key.saveToolbarActivator:0
+key_key.saveToolbarActivator:46
 key_key.loadToolbarActivator:45
 key_key.advancements:38
 key_key.hotbar.1:2
@@ -101,7 +101,7 @@ key_Zepplin Airship Turn Right:77
 key_Zepplin Airship Down:74
 key_Zepplin Airship Stop:76
 key_Reload Menu | CTRL + ALT + :19
-key_Toggle Customization Overlay | CTRL + ALT + :51
+key_Toggle Customization Overlay | CTRL + ALT + :46
 key_key.betterquesting.quests:41
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
@@ -127,11 +127,12 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
+key_key.clipboardPaste:210
 key_key.pitchDown.desc:29
 key_key.vehicleMenu.desc:50
 key_key.dropBomb.desc:48
 key_key.fireVehicleGuns.desc:47
-key_key.switchControlMode.desc:0
+key_key.switchControlMode.desc:46
 key_key.reload.desc:19
 key_key.teamsMenu.desc:34
 key_key.teamsScores.desc:35
@@ -157,39 +158,17 @@ key_key.rotatedown:208
 key_key.rotateright:205
 key_key.rotateleft:203
 key_key.little.flip:34
-key_key.little.mark:0
-key_key.little.config.item:0
+key_key.little.mark:50
+key_key.little.config.item:46
 key_key.little.undo:44:CONTROL
 key_key.little.redo:21:CONTROL
 key_Camping Inventory Key:34
-key_WorldEdit Reference:24
+key_WorldEdit Reference:38
 key_worldeditcuife3.key.cui.options:0
 key_worldeditcuife3.key.cui.toggle.visibility:0
 key_worldeditcuife3.key.cui.clear.selection:0
 key_worldeditcuife3.key.chunk.toggle.visibility:62
 key_worldeditcuife3.key.distance.toggle.visibility:37
-key_gui.xaero_switch_waypoint_set:0
-key_gui.xaero_instant_waypoint:78
-key_gui.xaero_toggle_slime:0
-key_gui.xaero_toggle_grid:0
-key_gui.xaero_toggle_waypoints:0
-key_gui.xaero_toggle_map_waypoints:0
-key_gui.xaero_toggle_map:0
-key_gui.xaero_enlarge_map:44
-key_gui.xaero_waypoints_key:22
-key_gui.xaero_zoom_in:0
-key_gui.xaero_zoom_out:0
-key_gui.xaero_new_waypoint:48
-key_gui.xaero_display_all_sets:0
-key_gui.xaero_toggle_light_overlay:0
-key_gui.xaero_toggle_entity_radar:0
-key_gui.xaero_reverse_entity_radar:0
-key_gui.xaero_minimap_settings:21
-key_gui.xaero_open_map:50
-key_gui.xaero_open_settings:27
-key_gui.xaero_map_zoom_in:0
-key_gui.xaero_map_zoom_out:0
-key_gui.xaero_quick_confirm:54
 key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:34
@@ -212,7 +191,7 @@ key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
