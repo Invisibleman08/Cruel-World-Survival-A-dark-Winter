@@ -1,6 +1,6 @@
 <h3>From the developers of Cruel World Survival</h3>
 <p>&nbsp;</p>
-<p><img src="https://i.ibb.co/D9cgxxN/2022-01-16-11-02-57-1.png" alt="" width="1142" height="410" /></p>
+<p><img src="https://i.ibb.co/D9cgxxN/2022-01-16-11-02-57-1.png"></p>
 <p>&nbsp;</p>
 <h2>CWS: A Dark Winter</h2>
 <p>&nbsp;</p>
