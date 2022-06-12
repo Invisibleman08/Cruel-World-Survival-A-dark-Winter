@@ -21,6 +21,7 @@ https://gameplex-software.github.io/cwsmc/storymode
 
 <p>&nbsp;</p>
 # Additional Screenshots
+
 ![Screenshot (98)](https://user-images.githubusercontent.com/34868944/154383847-cf561bfd-f287-4a42-8d2c-99a508422599.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/34868944/154383855-5f71a759-2181-4212-bf41-60caa1e1381d.png)
 ![Screenshot (100)](https://user-images.githubusercontent.com/34868944/154383864-8c03af9c-bbd8-4334-a720-9e0f2924d169.png)
