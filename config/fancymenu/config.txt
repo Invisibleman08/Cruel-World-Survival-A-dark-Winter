@@ -35,7 +35,7 @@ B:hideforgenotifications = 'true';
 S:splashcolor = '#ffff00';
 I:splashrotation = '-20';
 I:splashy = '0';
-I:splashx = '250';
+I:splashx = '40';
 B:hidesplashtext = 'false';
 S:splashtextfile = '';
 S:splashorientation = 'original';
@@ -70,4 +70,4 @@ B:showvanillamovewarning = 'false';
 
 ##[ui]
 
-F:uiscale = '1.5';
+F:uiscale = '2.5';

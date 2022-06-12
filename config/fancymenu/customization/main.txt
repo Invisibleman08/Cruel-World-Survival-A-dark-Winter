@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = resources/daljnet-fa2a1702-362f-49b5-9825-967b19acc230.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -16,8 +21,8 @@ customization {
 customization {
   path = resources/overlay.png
   orientation = top-centered
-  x = -351
-  width = 700
+  x = -155
+  width = 312
   actionid = f560e894-2b54-49a6-9ffd-56912a3171cd1638484060153
   action = addtexture
   y = 26
@@ -32,7 +37,7 @@ customization {
   actionid = 322f2fec-de38-43f3-bdcf-f62ecfc78c6f1638531180715
   action = addtexture
   y = -131
-  height = 269
+  height = 223
 }
 
 customization {
@@ -211,36 +216,6 @@ customization {
 }
 
 customization {
-  orientation = mid-right
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  x = -136
-  width = 133
-  actionid = f6b96d53-8a50-4e51-b4ae-67a59cb4f76e1638531963873
-  action = addbutton
-  y = 110
-  label = Developers
-  value = 
-  height = 20
-}
-
-customization {
-  orientation = mid-right
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  x = -136
-  width = 133
-  actionid = b83f5af1-453e-4cfb-abf3-787326dd28761638531971164
-  action = addbutton
-  y = 86
-  label = Credits
-  value = 
-  height = 20
-}
-
-customization {
   orientation = bottom-right
   shadow = true
   x = -262
@@ -253,13 +228,135 @@ customization {
 }
 
 customization {
-  path = resources/logo.png
+  path = resources/logo2.gif
   orientation = top-centered
-  x = -345
-  width = 691
-  actionid = 964c1ea8-72e2-4901-92c8-c09f003a6b281642439570030
+  x = -151
+  width = 303
+  actionid = 43996373-4dc0-480e-bf14-80e0c459ebad1655062100527
   action = addtexture
-  y = 30
-  height = 43
+  y = 21
+  height = 62
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -57
+  actionid = d73a8ecb-3129-412f-8e98-b1d1b4bfd87d1655062506360
+  action = addtext
+  y = -172
+  scale = 1.0
+  alignment = left
+  value = Welcome %playername%
+}
+
+customization {
+  showname = false
+  orientation = bottom-centered
+  crouching = false
+  x = 0
+  slim = false
+  actionid = d96fee53-ddf8-49a0-a2a2-648f5b0226b71655062534060
+  action = addentity
+  y = -49
+  scale = 55
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -107
+  actionid = 3d0cd9dc-1235-41a7-b810-cdd191a8b85d1655062695820
+  action = addtext
+  y = -43
+  scale = 1.0
+  alignment = left
+  value = Tristan Poland
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -109
+  actionid = 03d8da97-8b50-425f-819c-b60b971cd5b31655062763061
+  action = addtext
+  y = -105
+  scale = 1.0
+  alignment = left
+  value = LiquidTea
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -109
+  actionid = edc70536-1481-4026-9208-bd40ebdd2bf01655062803558
+  action = addtext
+  y = -94
+  scale = 1.0
+  alignment = left
+  value = Original Owner
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -107
+  actionid = 5e6020a6-6c50-4341-865b-9025540e21f11655062826156
+  action = addtext
+  y = -31
+  scale = 1.0
+  alignment = left
+  value = Current Owner, Dev
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -107
+  actionid = 28efe12f-26c5-4932-937c-effe956c6fb11655062872755
+  action = addtext
+  y = 4
+  scale = 1.0
+  alignment = left
+  value = Researcher, Dev
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -107
+  actionid = 67c32fea-046f-421d-9c94-01636f3c1a2f1655062880300
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Writzi
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -107
+  actionid = 86518b68-b441-4001-afe8-1f9d744a80771655062937464
+  action = addtext
+  y = 41
+  scale = 1.0
+  alignment = left
+  value = imaphoenix
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -108
+  actionid = 071d10ac-d882-4d14-bb25-d7d46bcf67841655062942004
+  action = addtext
+  y = 53
+  scale = 1.0
+  alignment = left
+  value = Artist, Dev
 }
 
