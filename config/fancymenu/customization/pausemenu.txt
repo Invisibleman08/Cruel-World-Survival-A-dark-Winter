@@ -89,3 +89,50 @@ customization {
   value = And %serverplayercount:<serverIP>% others
 }
 
+customization {
+  path = resources/overlay.png
+  orientation = bottom-right
+  x = -177
+  width = 177
+  actionid = 9f4e486b-fe98-42e0-bf98-6470e44546c11655131104610
+  action = addtexture
+  y = -88
+  height = 88
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -128
+  actionid = 6e97a5b9-6e30-4495-ae0c-2d035ba58f241655131130966
+  action = addtext
+  y = -85
+  scale = 1.0
+  alignment = left
+  value = Resource Usage
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -173
+  actionid = 95a30cc8-b0e5-4327-b8ff-f87810ef95f31655131202771
+  action = addtext
+  y = -71
+  scale = 1.0
+  alignment = left
+  value = RAM: %usedram%/%maxram% MB 
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 787
+  actionid = 33d48f86-fdee-471a-a428-c4eabc7debe91655131250212
+  action = addtext
+  y = 447
+  scale = 1.0
+  alignment = left
+  value = Ping: %serverping:<serverIP>%
+}
+

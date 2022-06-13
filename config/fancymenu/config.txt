@@ -17,7 +17,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'true';
-B:showcustomizationbuttons = 'false';
+B:showcustomizationbuttons = 'true';
 
 
 ##[mainmenu]
@@ -26,7 +26,7 @@ S:copyrightposition = 'bottom-right';
 B:hidebranding = 'true';
 S:copyrightcolor = '#ffffff';
 B:hidelogo = 'true';
-B:hiderealmsnotifications = 'true';
+B:hiderealmsnotifications = 'false';
 B:hideforgenotifications = 'true';
 
 
@@ -70,4 +70,4 @@ B:showvanillamovewarning = 'false';
 
 ##[ui]
 
-F:uiscale = '2.5';
+F:uiscale = '1.5';

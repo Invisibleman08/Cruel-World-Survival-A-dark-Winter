@@ -14,6 +14,12 @@ customization {
 }
 
 customization {
+  path = resources/winter_horror_main_menu.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -62,7 +68,7 @@ customization {
   action = addentity
   y = 27
   scale = 20
-  playername = Writzi
+  playername = Wrytzi
   parrot = false
 }
 
@@ -76,7 +82,7 @@ customization {
   action = addentity
   y = -21
   scale = 20
-  playername = tristanpoland
+  playername = Trident_For_U
   parrot = false
 }
 
@@ -206,13 +212,13 @@ customization {
 customization {
   orientation = bottom-right
   shadow = true
-  x = -276
+  x = -278
   actionid = 312457f8-915c-4e4f-bdbd-6bff185b9db61638531884449
   action = addtext
   y = -25
   scale = 1.0
   alignment = left
-  value = Cruel World Survival is © The CWS Dev Team 2020-2021
+  value = Cruel World Survival is © The CWS Dev Team 2020-%realtimeyear%
 }
 
 customization {
@@ -333,7 +339,7 @@ customization {
   y = -9
   scale = 1.0
   alignment = left
-  value = Writzi
+  value = Wrytzi
 }
 
 customization {
