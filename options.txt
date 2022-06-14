@@ -5,7 +5,7 @@ fov:-0.008498574
 gamma:0.0
 saturation:0.0
 renderDistance:6
-guiScale:2
+guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
@@ -190,7 +190,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:0.47019866
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
