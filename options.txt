@@ -103,6 +103,7 @@ key_Zepplin Airship Stop:76
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :46
 key_key.betterquesting.quests:41
+key_key.mclib.dashboard:11
 key_Scene1 start/pause:79
 key_Scene2 start/pause:80
 key_Scene3 start/pause:81
@@ -116,6 +117,18 @@ key_key.securitycraft.cameraEmitRedstone:19
 key_key.securitycraft.cameraActivateNightVision:49
 key_key.toggle_focus.desc:15
 key_key.betterHud.open:22
+key_key.metamorph.action:47
+key_key.metamorph.creative_menu:48
+key_key.metamorph.selector_menu:12
+key_key.metamorph.survival_menu:45
+key_key.metamorph.demorph:52
+key_key.blockbuster.plause_director:199
+key_key.blockbuster.record_director:200
+key_key.blockbuster.pause_director:201
+key_key.blockbuster.open_gun:207
+key_key.blockbuster.zoom:0
+key_key.blockbuster.gun_reload:19
+key_key.blockbuster.gun_shoot:-100
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -190,7 +203,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.47019866
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

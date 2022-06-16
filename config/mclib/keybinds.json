@@ -1,0 +1,276 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "entity_culling": {
+        "": {}
+    },
+    "littletilescore": {
+        "": {}
+    },
+    "com.elytradev.movingworld.common.asm.coremod": {
+        "": {}
+    },
+    "opencomputers|core": {
+        "": {}
+    },
+    "moresoundconfigcore": {
+        "": {}
+    },
+    "securitycraft": {
+        "": {}
+    },
+    "valkyrienskies": {
+        "": {}
+    },
+    "ctm": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "appliedintegrations": {
+        "": {}
+    },
+    "betterhud": {
+        "": {}
+    },
+    "betterquesting": {
+        "": {}
+    },
+    "bibliocraft": {
+        "": {}
+    },
+    "biomesoplenty": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "metamorph": {
+        "": {}
+    },
+    "blockbuster": {
+        "": {}
+    },
+    "blockcraftery": {
+        "": {}
+    },
+    "bnbgaminglib": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "chisel": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "compactmachines3": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "customnpcs": {
+        "": {}
+    },
+    "customstartinggear": {
+        "": {}
+    },
+    "discordcraft": {
+        "": {}
+    },
+    "dynamictrees": {
+        "": {}
+    },
+    "dynamictreesbop": {
+        "": {}
+    },
+    "endercore": {
+        "": {}
+    },
+    "enderio": {
+        "": {}
+    },
+    "enderiointegrationtic": {
+        "": {}
+    },
+    "mantle": {
+        "": {}
+    },
+    "tconstruct": {
+        "": {}
+    },
+    "dynamictreestconstruct": {
+        "": {}
+    },
+    "enderiobase": {
+        "": {}
+    },
+    "enderioconduits": {
+        "": {}
+    },
+    "enderioconduitsappliedenergistics": {
+        "": {}
+    },
+    "opencomputers": {
+        "": {}
+    },
+    "enderioconduitsopencomputers": {
+        "": {}
+    },
+    "enderioconduitsrefinedstorage": {
+        "": {}
+    },
+    "enderiointegrationforestry": {
+        "": {}
+    },
+    "enderiointegrationticlate": {
+        "": {}
+    },
+    "enderioinvpanel": {
+        "": {}
+    },
+    "enderiomachines": {
+        "": {}
+    },
+    "enderiopowertools": {
+        "": {}
+    },
+    "enderstorage": {
+        "": {}
+    },
+    "eternalwinter": {
+        "": {}
+    },
+    "extrautils2": {
+        "": {}
+    },
+    "konkrete": {
+        "": {}
+    },
+    "fancymenu": {
+        "": {}
+    },
+    "flansmod": {
+        "": {}
+    },
+    "cfm": {
+        "": {}
+    },
+    "waila": {
+        "": {}
+    },
+    "immersiveengineering": {
+        "": {}
+    },
+    "immersivecables": {
+        "": {}
+    },
+    "immersivepetroleum": {
+        "": {}
+    },
+    "immersiveposts": {
+        "": {}
+    },
+    "ironchest": {
+        "": {}
+    },
+    "littleframes": {
+        "": {}
+    },
+    "littletiles": {
+        "": {}
+    },
+    "loadingscreens": {
+        "": {}
+    },
+    "malisiscore": {
+        "": {}
+    },
+    "malisisdoors": {
+        "": {}
+    },
+    "immersivetech": {
+        "": {}
+    },
+    "mcwdoors": {
+        "": {}
+    },
+    "modernweaponspack": {
+        "": {}
+    },
+    "movingworld": {
+        "": {}
+    },
+    "particleculling": {
+        "": {}
+    },
+    "corerm": {
+        "": {}
+    },
+    "simplepartspack": {
+        "": {}
+    },
+    "simple-rpc": {
+        "": {}
+    },
+    "soundfilters": {
+        "": {}
+    },
+    "bq_standard": {
+        "": {}
+    },
+    "camping": {
+        "": {}
+    },
+    "undergroundbiomes": {
+        "": {}
+    },
+    "unlimitedchiselworks": {
+        "": {}
+    },
+    "vs_world": {
+        "": {}
+    },
+    "vs_control": {
+        "": {}
+    },
+    "wawla": {
+        "": {}
+    },
+    "worldedit": {
+        "": {}
+    },
+    "worldeditcuife3": {
+        "": {}
+    },
+    "worldeditwand": {
+        "": {}
+    },
+    "moresoundconfig": {
+        "": {}
+    },
+    "reauth": {
+        "": {}
+    },
+    "mysticallib": {
+        "": {}
+    },
+    "": {}
+}

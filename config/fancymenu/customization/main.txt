@@ -4,7 +4,7 @@ customization-meta {
   identifier = net.minecraft.client.gui.GuiMainMenu
   randomgroup = 1
   renderorder = background
-  randommode = false
+  randommode = true
   randomonlyfirsttime = false
 }
 
@@ -14,7 +14,13 @@ customization {
 }
 
 customization {
-  path = resources/winter_horror_main_menu.wav
+  path = resources/winter_horror_main_menu-new.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
+  path = resources/Free sound effect _ wind sound _.wav
   loop = true
   action = addaudio
 }
@@ -22,6 +28,66 @@ customization {
 customization {
   keepaspectratio = false
   action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -93
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -33
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -33
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -10
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -117
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -69
+}
+
+customization {
+  identifier = %id=400346%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
 }
 
 customization {
