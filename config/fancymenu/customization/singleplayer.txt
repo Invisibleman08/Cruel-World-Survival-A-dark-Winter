@@ -14,8 +14,8 @@ customization {
 }
 
 customization {
-  path = resources/winter_horror_main_menu.wav
-  loop = false
+  path = resources/winter_horror_main_menu-new.wav
+  loop = true
   action = addaudio
 }
 
