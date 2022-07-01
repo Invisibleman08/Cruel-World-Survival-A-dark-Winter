@@ -78,15 +78,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2022-06-28 00:05:33 -0400"
-    },
-    "done": true
-  },
   "cfm:root": {
     "criteria": {
       "tick": "2022-06-28 00:03:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-06-28 00:05:33 -0400"
     },
     "done": true
   },
