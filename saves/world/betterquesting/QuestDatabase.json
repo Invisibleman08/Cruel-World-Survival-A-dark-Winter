@@ -1,0 +1,1937 @@
+{
+  "build:8": "3.5.329",
+  "format:8": "2.0.0",
+  "questDatabase:9": {
+    "0:10": {
+      "questID:3": 0,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:skull",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Death Valley",
+          "desc:8": "Survive the crash landing"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "1:10": {
+      "questID:3": 1,
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "littletiles:ltflowinglava",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "One way trip",
+          "desc:8": "Escape the crash site, and make your way to the forest path."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invert:1": 0,
+          "range:3": 5,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": -87,
+          "posY:3": 67,
+          "posZ:3": 247,
+          "biome:8": "",
+          "name:8": "New Location",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        }
+      },
+      "rewards:9": {}
+    },
+    "2:10": {
+      "questID:3": 2,
+      "preRequisites:11": [
+        1
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:iron_sword",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Price of war",
+          "desc:8": "Kill 10 enemies ath the first camp"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "targetNBT:10": {
+            "ReturnToStart:1": 1,
+            "NpcInv:9": {},
+            "BossColor:3": 0,
+            "PotionEffect:3": 0,
+            "Size:3": 5,
+            "stopAndInteract:1": 1,
+            "Resistances:10": {
+              "Arrow:5": 1.0,
+              "Explosion:5": 1.0,
+              "Knockback:5": 1.0,
+              "Melee:5": 1.0
+            },
+            "BossBar:1": 0,
+            "RespawnTime:3": 20,
+            "NpcAngrySound:8": "",
+            "ReactsToFire:1": 0,
+            "IgnoreCobweb:1": 0,
+            "PositionOffsetZ:5": 5.0,
+            "PositionOffsetY:5": 5.0,
+            "PositionOffsetX:5": 5.0,
+            "LootMode:3": 0,
+            "TransformHasAI:1": 0,
+            "AttackStrenght:3": 5,
+            "PersistenceRequired:1": 0,
+            "id:8": "CustomNpc",
+            "IsStatue:1": 0,
+            "MovingPatern:3": 0,
+            "NpcLines:10": {
+              "Lines:9": {}
+            },
+            "DefendFaction:1": 0,
+            "FireIndirect:3": 0,
+            "NpcVisible:3": 0,
+            "LinkedNpcName:8": "",
+            "NpcScenes:10": {
+              "Scenes:9": {}
+            },
+            "HitSound:8": "minecraft:entity.arrow.hit",
+            "FindShelter:3": 2,
+            "Air:2": 300,
+            "TacticalVariant:3": 0,
+            "Orientation:3": 0,
+            "ScriptLanguage:8": "ECMAScript",
+            "HandItems:9": {
+              "0:10": {},
+              "1:10": {}
+            },
+            "KnockBack:3": 0,
+            "TransformHasJob:1": 0,
+            "ArmorDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085,
+              "2:5": 0.085,
+              "3:5": 0.085
+            },
+            "Pos:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "BurnInSun:1": 0,
+            "StandingState:3": 0,
+            "AttackInvisible:1": 0,
+            "NpcInteractNPCLines:10": {
+              "Lines:9": {}
+            },
+            "HurtTime:2": 0,
+            "WalkingRange:3": 10,
+            "ShotCount:3": 1,
+            "pDur:3": 5,
+            "StartPosNew:11": [
+              0,
+              0,
+              0
+            ],
+            "AttackRange:3": 2,
+            "NpcKillLines:10": {
+              "Lines:9": {}
+            },
+            "PotionImmune:1": 0,
+            "AvoidsSun:1": 0,
+            "Texture:8": "customnpcs:textures/entity/humanmale/steve.png",
+            "NpcJob:3": 0,
+            "BurstCount:3": 1,
+            "NpcAttackLines:10": {
+              "Lines:9": {}
+            },
+            "pSpeed:3": 10,
+            "pArea:3": 0,
+            "DeathTime:2": 0,
+            "pImpact:3": 0,
+            "MoveState:3": 0,
+            "pRender3D:1": 1,
+            "Motion:9": {
+              "0:6": 0.0,
+              "1:6": 0.0,
+              "2:6": 0.0
+            },
+            "CombatRegen:3": 0,
+            "NpcsTimers:9": {},
+            "MarkovGender:3": 0,
+            "pEffect:3": 0,
+            "DistanceToMelee:3": 0,
+            "NpcStepSound:8": "",
+            "FireRate:3": 5,
+            "LeftHanded:1": 0,
+            "pEffAmp:3": 0,
+            "OnGround:1": 0,
+            "Dimension:3": 0,
+            "ImmuneToFire:1": 0,
+            "NpcKilledLines:10": {
+              "Lines:9": {}
+            },
+            "UUIDMost:4": -7546991071538823015,
+            "Fire:2": -1,
+            "ArmorItems:9": {
+              "0:10": {},
+              "1:10": {},
+              "2:10": {},
+              "3:10": {}
+            },
+            "DisablePitch:1": 0,
+            "pPhysics:1": 1,
+            "TransformHasInv:1": 0,
+            "NpcInteractLines:10": {
+              "Lines:9": {
+                "0:10": {
+                  "Line:8": "Hello @p",
+                  "Song:8": "",
+                  "Slot:3": 0
+                }
+              }
+            },
+            "HurtByTimestamp:3": 0,
+            "pSpin:1": 0,
+            "NpcHurtSound:8": "minecraft:entity.player.hurt",
+            "pTrail:3": 0,
+            "CreatureType:3": 0,
+            "Attributes:9": {
+              "0:10": {
+                "Base:6": 20.0,
+                "Name:8": "generic.maxHealth"
+              },
+              "1:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.knockbackResistance"
+              },
+              "2:10": {
+                "Base:6": 0.25,
+                "Name:8": "generic.movementSpeed"
+              },
+              "3:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armor"
+              },
+              "4:10": {
+                "Base:6": 0.0,
+                "Name:8": "generic.armorToughness"
+              },
+              "5:10": {
+                "Base:6": 1.0,
+                "Name:8": "forge.swimSpeed"
+              },
+              "6:10": {
+                "Base:6": 32.0,
+                "Name:8": "generic.followRange"
+              },
+              "7:10": {
+                "Base:6": 5.0,
+                "Name:8": "generic.attackDamage"
+              },
+              "8:10": {
+                "Base:6": 0.5,
+                "Name:8": "generic.flyingSpeed"
+              }
+            },
+            "Invulnerable:1": 0,
+            "TransformHasDisplay:1": 0,
+            "NoFallDamage:1": 0,
+            "AbsorptionAmount:5": 0.0,
+            "TransformHasRole:1": 0,
+            "Name:8": "enemies",
+            "FallDistance:5": 0.0,
+            "SkinColor:3": 16777215,
+            "NpcIdleSound:8": "",
+            "Weapons:9": {},
+            "NPCDialogOptions:9": {},
+            "AggroRange:3": 16,
+            "DirectLOS:1": 1,
+            "HealthRegen:3": 1,
+            "ForgeCaps:10": {},
+            "HandDropChances:9": {
+              "0:5": 0.085,
+              "1:5": 0.085
+            },
+            "NpcModelData:10": {
+              "LegsConfig:10": {
+                "NotShared:1": 0,
+                "ScaleZ:5": 1.0,
+                "TransZ:5": 0.0,
+                "TransY:5": 0.0,
+                "TransX:5": 0.012000002,
+                "ScaleY:5": 1.0,
+                "ScaleX:5": 1.0
+              },
+              "BodyConfig:10": {
+                "NotShared:1": 0,
+                "ScaleZ:5": 1.0,
+                "TransZ:5": 0.0,
+                "TransY:5": 0.0,
+                "TransX:5": 0.0,
+                "ScaleY:5": 1.0,
+                "ScaleX:5": 1.0
+              },
+              "Eyes:10": {
+                "Pattern:1": 0,
+                "Glint:1": 1,
+                "Type:1": 0,
+                "PositionY:3": 1,
+                "SkinColor:3": 11830381,
+                "PlayerTexture:1": 0,
+                "Color:3": 8375321,
+                "BrowColor:3": 5982516,
+                "BrowThickness:3": 4
+              },
+              "LegParts:10": {
+                "Pattern:1": 0,
+                "Type:1": 0,
+                "PlayerTexture:1": 0,
+                "Color:3": 16777215
+              },
+              "Parts:9": {},
+              "ArmsConfig:10": {
+                "NotShared:1": 0,
+                "ScaleZ:5": 1.0,
+                "TransZ:5": 0.0,
+                "TransY:5": 0.0,
+                "TransX:5": -0.0,
+                "ScaleY:5": 1.0,
+                "ScaleX:5": 1.0
+              },
+              "ExtraData:10": {},
+              "HeadConfig:10": {
+                "NotShared:1": 0,
+                "ScaleZ:5": 1.0,
+                "TransZ:5": 0.0,
+                "TransY:5": 0.0,
+                "TransX:5": 0.0,
+                "ScaleY:5": 1.0,
+                "ScaleX:5": 1.0
+              }
+            },
+            "minDelay:3": 20,
+            "DoorInteract:3": 2,
+            "MoveSpeed:3": 5,
+            "TransformEditingModus:1": 0,
+            "UsingSkinUrl:1": 0,
+            "Leashed:1": 0,
+            "SkinUrl:8": "",
+            "CanSwim:1": 1,
+            "GroundSound:8": "minecraft:block.stone.break",
+            "MaxHealth:3": 20,
+            "HideBodyWhenKilled:1": 0,
+            "AttackSpeed:3": 20,
+            "PotionDuration:3": 5,
+            "maxDelay:3": 40,
+            "ScriptEnabled:1": 0,
+            "Role:3": 0,
+            "DropChance:9": {},
+            "FactionPoints:10": {
+              "DecreaseFaction1Points:1": 0,
+              "OptionFaction2Points:3": 100,
+              "OptionFactions1:3": -1,
+              "OptionFactions2:3": -1,
+              "OptionFaction1Points:3": 100,
+              "DecreaseFaction2Points:1": 0
+            },
+            "pDamage:3": 4,
+            "KilledTime:4": 0,
+            "AimWhileShooting:1": 0,
+            "CanPickUpLoot:1": 0,
+            "AttackOtherFactions:1": 0,
+            "CanDrown:1": 1,
+            "pSize:3": 5,
+            "CanSprint:1": 0,
+            "CanLeap:1": 0,
+            "TransformIsActive:1": 0,
+            "ForgeData:10": {},
+            "MovingState:3": 0,
+            "MovingPos:3": 0,
+            "PotionAmp:3": 0,
+            "OnAttack:3": 0,
+            "TacticalRadius:3": 8,
+            "FallFlying:1": 0,
+            "MaxExp:3": 0,
+            "OrderedLines:1": 0,
+            "PortalCooldown:3": 0,
+            "pGlows:1": 0,
+            "TransformHasAdvanced:1": 0,
+            "TransformHasStats:1": 0,
+            "MovementType:3": 0,
+            "FiringSound:8": "minecraft:entity.arrow.shoot",
+            "ModRev:3": 18,
+            "Accuracy:3": 60,
+            "MinExp:3": 0,
+            "Armor:9": {},
+            "CloakTexture:8": "",
+            "GlowTexture:8": "",
+            "MaxFiringRange:3": 15,
+            "pXlr8:1": 0,
+            "MarkovGeneratorId:3": 1,
+            "Scripts:9": {},
+            "UUIDLeast:4": -5809309021458943606,
+            "Health:5": 20.0,
+            "pStick:1": 0,
+            "MovingPause:1": 1,
+            "NpcDeathSound:8": "minecraft:entity.player.hurt",
+            "MovingPathNew:9": {},
+            "FactionID:3": 0,
+            "Title:8": "",
+            "TotalTicksAlive:4": 0,
+            "Rotation:9": {
+              "0:5": 1.760106,
+              "1:5": 0.0
+            },
+            "ShowName:3": 0,
+            "npcInteracting:1": 1,
+            "UpdateBlocked:1": 0,
+            "AvoidsWater:1": 0,
+            "NoLivingAnimation:1": 0,
+            "SpawnCycle:3": 0
+          },
+          "damageType:8": "",
+          "required:3": 10,
+          "taskID:8": "bq_standard:hunt",
+          "target:8": "customnpcs:customnpc",
+          "subtypes:1": 1
+        }
+      },
+      "rewards:9": {}
+    },
+    "3:10": {
+      "questID:3": 3,
+      "preRequisites:11": [
+        6
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:filled_map",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Lost and found",
+          "desc:8": "Discoved classified documents in the commander\u0027s tent at the first camp"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "bibliocraft:bigbook",
+              "Count:3": 1,
+              "tag:10": {
+                "pagesCurrent:3": 0,
+                "pages:10": {
+                  "pageScale0:11": [
+                    3,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "page1:9": {
+                    "0:8": "",
+                    "1:8": "",
+                    "2:8": "",
+                    "3:8": "",
+                    "4:8": "",
+                    "5:8": "",
+                    "6:8": "",
+                    "7:8": "",
+                    "8:8": "",
+                    "9:8": "",
+                    "10:8": "",
+                    "11:8": "",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "page0:9": {
+                    "0:8": "              §4 §l§nT§nOP§n SECRET§4§l§n§n",
+                    "1:8": "Cmdr Yamar G. Sephonson",
+                    "2:8": "By order of the council of the new Americas",
+                    "3:8": "you are here by directed to move your troops",
+                    "4:8": "to the southern shore to guard it against",
+                    "5:8": "invaders. Operation Ni§kghtloc§k§kk is nearing it\u0027s",
+                    "6:8": "completion and soon the purification will be",
+                    "7:8": "unstoppable.",
+                    "8:8": "",
+                    "9:8": "Signed the chancellor of war",
+                    "10:8": "",
+                    "11:8": "Thomas F. Genison",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "pageScale1:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                "RepairCost:3": 0,
+                "chapters:10": {
+                  "chapline7:8": "",
+                  "chapline6:8": "",
+                  "chapline10:8": "",
+                  "chapline5:8": "",
+                  "chapline4:8": "",
+                  "chapline3:8": "",
+                  "chapline2:8": "",
+                  "chapline1:8": "",
+                  "chapline0:8": "",
+                  "chapline15:8": "",
+                  "chapline13:8": "",
+                  "chapline14:8": "",
+                  "chapline11:8": "",
+                  "chapline12:8": "",
+                  "chapPages:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapBools:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapline9:8": "",
+                  "chapline8:8": ""
+                },
+                "display:10": {
+                  "Name:8": "Official Orders (1)"
+                },
+                "pagesTotal:3": 2
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "4:10": {
+      "questID:3": 4,
+      "preRequisites:11": [
+        9
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "cfm:crate_spruce",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Way of the pirate",
+          "desc:8": "Loot items from the first camp to help you on your journey"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "5:10": {
+      "questID:3": 5,
+      "preRequisites:11": [
+        6
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:potion",
+            "Count:3": 1,
+            "tag:10": {
+              "Potion:8": "minecraft:strong_harming"
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Lab Rats",
+          "desc:8": "Locate the old lab and the test subjects there"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "6:10": {
+      "questID:3": 6,
+      "preRequisites:11": [
+        2
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "flansmod:flamethrower",
+            "Count:3": 1,
+            "tag:10": {
+              "attachments:10": {
+                "barrel:10": {},
+                "grip:10": {},
+                "scope:10": {},
+                "stock:10": {}
+              },
+              "ammo:9": {
+                "0:10": {}
+              }
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Scorched earth",
+          "desc:8": "Burn the enemy shack to the ground"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "7:10": {
+      "questID:3": 7,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:filled_map",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Lost and found #2",
+          "desc:8": "Discoved classified documents in the abandoned lab\u0027s safe."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "bibliocraft:bigbook",
+              "Count:3": 1,
+              "tag:10": {
+                "pagesCurrent:3": 0,
+                "pages:10": {
+                  "pageScale0:11": [
+                    3,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "page1:9": {
+                    "0:8": "",
+                    "1:8": "",
+                    "2:8": "",
+                    "3:8": "",
+                    "4:8": "",
+                    "5:8": "",
+                    "6:8": "",
+                    "7:8": "",
+                    "8:8": "",
+                    "9:8": "",
+                    "10:8": "",
+                    "11:8": "",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "page0:9": {
+                    "0:8": "              §4 §l§nT§nOP§n SECRET§4§l§n§n",
+                    "1:8": "Cmdr Yamar G. Sephonson",
+                    "2:8": "By order of the council of the new Americas",
+                    "3:8": "you are here by directed to move your troops",
+                    "4:8": "to the southern shore to guard it against",
+                    "5:8": "invaders. Operation Ni§kghtloc§k§kk is nearing it\u0027s",
+                    "6:8": "completion and soon the purification will be",
+                    "7:8": "unstoppable.",
+                    "8:8": "",
+                    "9:8": "Signed the chancellor of war",
+                    "10:8": "",
+                    "11:8": "Thomas F. Genison",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "pageScale1:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                "RepairCost:3": 0,
+                "chapters:10": {
+                  "chapline7:8": "",
+                  "chapline6:8": "",
+                  "chapline10:8": "",
+                  "chapline5:8": "",
+                  "chapline4:8": "",
+                  "chapline3:8": "",
+                  "chapline2:8": "",
+                  "chapline1:8": "",
+                  "chapline0:8": "",
+                  "chapline15:8": "",
+                  "chapline13:8": "",
+                  "chapline14:8": "",
+                  "chapline11:8": "",
+                  "chapline12:8": "",
+                  "chapPages:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapBools:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapline9:8": "",
+                  "chapline8:8": ""
+                },
+                "display:10": {
+                  "Name:8": "Official Orders (1)"
+                },
+                "pagesTotal:3": 2
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "8:10": {
+      "questID:3": 8,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:filled_map",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Lost and Found 2",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "bibliocraft:bigbook",
+              "Count:3": 1,
+              "tag:10": {
+                "pagesCurrent:3": 0,
+                "pages:10": {
+                  "pageScale0:11": [
+                    5,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    0,
+                    3,
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "page0:9": {
+                    "0:8": "    Lab log final entry",
+                    "1:8": "We have had a breach. The reactor powering",
+                    "2:8": "the lab was attacked by a group of natives",
+                    "3:8": "attacked it and we were forced to move to",
+                    "4:8": "the main base. This building and all remaining",
+                    "5:8": "assets and test subjects will be moved or",
+                    "6:8": "remain here to be destroyed. It is difficult",
+                    "7:8": "to leave a place where history is being made,",
+                    "8:8": "However I am confident that we will be able to",
+                    "9:8": "Complete our research at the new, and more",
+                    "10:8": "modern lab.",
+                    "11:8": "",
+                    "12:8": "Building the new world",
+                    "13:8": "--Dr. Draco Brown",
+                    "14:8": "",
+                    "15:8": "§k§k§k",
+                    "16:8": "§kCoords to new base",
+                    "17:8": "-319",
+                    "18:8": "74",
+                    "19:8": "110",
+                    "20:8": "§kwewerwqrweqwerwe",
+                    "21:8": "",
+                    "22:8": "§k§k§k",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  }
+                },
+                "chapters:10": {
+                  "chapline7:8": "",
+                  "chapline6:8": "",
+                  "chapline10:8": "",
+                  "chapline5:8": "",
+                  "chapline4:8": "",
+                  "chapline3:8": "",
+                  "chapline2:8": "",
+                  "chapline1:8": "",
+                  "chapline0:8": "",
+                  "chapline15:8": "",
+                  "chapline13:8": "",
+                  "chapline14:8": "",
+                  "chapline11:8": "",
+                  "chapline12:8": "",
+                  "chapPages:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapBools:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapline9:8": "",
+                  "chapline8:8": ""
+                },
+                "pagesTotal:3": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "9:10": {
+      "questID:3": 9,
+      "preRequisites:11": [
+        6
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:filled_map",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Lost and Found 1",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "bibliocraft:bigbook",
+              "Count:3": 1,
+              "tag:10": {
+                "pagesCurrent:3": 0,
+                "pages:10": {
+                  "pageScale0:11": [
+                    3,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "page1:9": {
+                    "0:8": "",
+                    "1:8": "",
+                    "2:8": "",
+                    "3:8": "",
+                    "4:8": "",
+                    "5:8": "",
+                    "6:8": "",
+                    "7:8": "",
+                    "8:8": "",
+                    "9:8": "",
+                    "10:8": "",
+                    "11:8": "",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "page0:9": {
+                    "0:8": "              §4 §l§nT§nOP§n SECRET§4§l§n§n",
+                    "1:8": "Cmdr Yamar G. Sephonson",
+                    "2:8": "By order of the council of the new Americas",
+                    "3:8": "you are here by directed to move your troops",
+                    "4:8": "to the southern shore to guard it against",
+                    "5:8": "invaders. Operation Ni§kghtloc§k§kk is nearing it\u0027s",
+                    "6:8": "completion and soon the purification will be",
+                    "7:8": "unstoppable.",
+                    "8:8": "",
+                    "9:8": "Signed the chancellor of war",
+                    "10:8": "",
+                    "11:8": "Thomas F. Genison",
+                    "12:8": "",
+                    "13:8": "",
+                    "14:8": "",
+                    "15:8": "",
+                    "16:8": "",
+                    "17:8": "",
+                    "18:8": "",
+                    "19:8": "",
+                    "20:8": "",
+                    "21:8": "",
+                    "22:8": "",
+                    "23:8": "",
+                    "24:8": "",
+                    "25:8": "",
+                    "26:8": "",
+                    "27:8": "",
+                    "28:8": "",
+                    "29:8": "",
+                    "30:8": "",
+                    "31:8": "",
+                    "32:8": "",
+                    "33:8": "",
+                    "34:8": "",
+                    "35:8": "",
+                    "36:8": "",
+                    "37:8": "",
+                    "38:8": "",
+                    "39:8": "",
+                    "40:8": "",
+                    "41:8": "",
+                    "42:8": "",
+                    "43:8": ""
+                  },
+                  "pageScale1:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                "RepairCost:3": 0,
+                "chapters:10": {
+                  "chapline7:8": "",
+                  "chapline6:8": "",
+                  "chapline10:8": "",
+                  "chapline5:8": "",
+                  "chapline4:8": "",
+                  "chapline3:8": "",
+                  "chapline2:8": "",
+                  "chapline1:8": "",
+                  "chapline0:8": "",
+                  "chapline15:8": "",
+                  "chapline13:8": "",
+                  "chapline14:8": "",
+                  "chapline11:8": "",
+                  "chapline12:8": "",
+                  "chapPages:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapBools:11": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "chapline9:8": "",
+                  "chapline8:8": ""
+                },
+                "display:10": {
+                  "Name:8": "Official Orders (1)"
+                },
+                "pagesTotal:3": 2
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "10:10": {
+      "questID:3": 10,
+      "preRequisites:11": [
+        5
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:arrow",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Enemy of My Enemy",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "11:10": {
+      "questID:3": 11,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "bibliocraft:maptool",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "Master tracker",
+          "desc:8": "Find the next enemy outpost using the classified information from the abandoned lab"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invert:1": 0,
+          "range:3": 15,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": -307,
+          "posY:3": 76,
+          "posZ:3": 120,
+          "biome:8": "",
+          "name:8": "New Location",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        }
+      },
+      "rewards:9": {}
+    },
+    "12:10": {
+      "questID:3": 12,
+      "preRequisites:11": [
+        11
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "malisisdoors:rustyhatch",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "The Belly of the Beast",
+          "desc:8": "Enter the enemy fallout shelter"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "visible:1": 0,
+          "invert:1": 0,
+          "range:3": 4,
+          "index:3": 0,
+          "structure:8": "",
+          "hideInfo:1": 0,
+          "posX:3": -327,
+          "posY:3": 70,
+          "posZ:3": 116,
+          "biome:8": "",
+          "name:8": "New Location",
+          "dimension:3": 0,
+          "taxiCabDist:1": 0,
+          "taskID:8": "bq_standard:location"
+        }
+      },
+      "rewards:9": {}
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -360,
+          "y:3": -216,
+          "id:3": 0,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -288,
+          "y:3": -216,
+          "id:3": 1,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -216,
+          "y:3": -216,
+          "id:3": 2,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -144,
+          "id:3": 4,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -216,
+          "id:3": 5,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -216,
+          "id:3": 6,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -180,
+          "id:3": 8,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -180,
+          "id:3": 9,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -216,
+          "id:3": 10,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "Deadly Dancing",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "extrautils2:chickenring",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Survive the crash landing and escape to land"
+        }
+      },
+      "order:3": 0
+    },
+    "1:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -360,
+          "y:3": -228,
+          "id:3": 11,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -288,
+          "y:3": -228,
+          "id:3": 12,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "The Offensive",
+          "icon:10": {
+            "ForgeCaps:10": {
+              "customnpcs:itemscripteddata:10": {}
+            },
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": ""
+        }
+      },
+      "order:3": 1
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "livesdef:3": 3,
+      "pack_name:8": "",
+      "home_anchor_y:5": 0.0,
+      "livesmax:3": 10,
+      "home_anchor_x:5": 0.5,
+      "editmode:1": 1,
+      "hardcore:1": 0,
+      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "party_enable:1": 1,
+      "pack_version:3": 0,
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0
+    }
+  }
+}

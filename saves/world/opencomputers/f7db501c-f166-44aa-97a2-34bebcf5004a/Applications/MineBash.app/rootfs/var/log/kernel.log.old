@@ -1,0 +1,41 @@
+[000.800] Kernel startup: phase 1
+[000.800] Initialized loadfile
+[000.850] Initialized term.*, write(), and print()
+[000.900] Loading filesystem API from /lib/filesystem.lua
+[1000000] Reinitializing loadfile
+[1000000] Kernel startup: stage 2
+[001.050] Setting up kernel hooks
+[001.050] Loading init from /sbin/init.lua
+[001.150] Starting init services
+[001.200] Loading /etc/init.d/00_base.lua
+[001.300] Loading /etc/init.d/10_event.lua
+[001.400] Loading /etc/init.d/20_read.lua
+[001.500] Loading /etc/init.d/30_errors.lua
+[001.550] Loading /etc/init.d/40_tables.lua
+[001.650] Loading /etc/init.d/50_modules.lua
+[001.800] Loading /etc/init.d/60_networking.lua
+[001.900] Checking for an internet card
+[001.900] Found internet card and created proxy
+[001.950] Loading /etc/init.d/70_filesystem.lua
+[002.050] Getting root filesystem address
+[002.150] Initializing mount system
+[002.200] Mounting filesystem ca893dec-6970-42ed-bab9-13bd4d1c998b at /
+[002.250] Mounting external filesystems
+[002.250] Mounting filesystem ed526982-0cb5-40b2-9709-debf2debd350 at /mnt/ed5
+[002.350] Mounting filesystem de4b6a82-f620-4103-8219-2f8a6c72bd24 at /mnt/de4
+[002.400] Mounting filesystem 319f4fc7-1d1a-47de-99f5-57947265fffd at /mnt/319
+[002.450] Mounting filesystem 6168e20b-78ad-438a-b764-000e0438493e at /mnt/616
+[002.500] Mounting filesystem 10c39eb7-b843-44b6-9141[1371.750] Shutting down
+
+[002.550] Mounting filesystem b70ad290-3b95-4975-a3e0-05d8b0dac0ab at /mnt/b70
+[002.600] Mounting filesystem bc830d0a-ab9a-453f-8ec6-6f3e71fa6d11 at /tmp
+[002.650] Loading /etc/init.d/80_multithreading.lua
+[002.750] Starting OpenRC
+[002.900] Checking for OpenRC configuration at /etc/openrc.cfg
+[3000000] Starting OpenRC service logd
+[003.050] Spawning process 2 with name logd
+[003.100] Starting shell
+[003.200] Spawning process 3 with name shell
+[224.400] Unmounting de4b6a82-f620-4103-8219-2f8a6c72bd24
+[2250000] Unmounting ed526982-0cb5-40b2-9709-debf2debd350
+[225.450] Unmounting 10c39eb7-b843-44b6-9141-fb52a9a9f063
