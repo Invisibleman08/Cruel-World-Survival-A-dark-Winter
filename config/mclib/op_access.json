@@ -4,5 +4,8 @@
     },
     "metamorph": {
         "entity_selectors": true
+    },
+    "aperture": {
+        "camera_editor": true
     }
 }

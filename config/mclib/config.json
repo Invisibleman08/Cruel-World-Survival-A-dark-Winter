@@ -7,7 +7,7 @@
         "enable_trackpad_increments": true,
         "trackpad_decimal_places": 6,
         "enable_grid_rendering": true,
-        "user_interface_scale": 2,
+        "user_interface_scale": 4,
         "tooltip_style": 1,
         "favorite_colors": []
     },
