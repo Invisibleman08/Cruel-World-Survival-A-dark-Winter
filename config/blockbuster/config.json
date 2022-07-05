@@ -1,12 +1,12 @@
 {
     "general": {
         "buttons": {},
-        "show_first_time_modal": false,
+        "show_first_time_modal": true,
         "debug_playback_ticks": false,
         "green_screen_sky": false,
         "green_screen_sky_color": -16711936,
         "url_skins_sync_download": true,
-        "add_utility_blocks": true,
+        "add_utility_blocks": false,
         "bb_gun_sync_distance": 0.0
     },
     "model_block": {
