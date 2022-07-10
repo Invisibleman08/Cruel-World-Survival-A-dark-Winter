@@ -1,6 +1,6 @@
 ### From the developers of Cruel World Survival
   
-![header image](https://i.ibb.co/D9cgxxN/2022-01-16-11-02-57-1.png)
+![1657468891163](https://user-images.githubusercontent.com/34868944/178152447-a791f2e7-0c2f-4ce3-95ee-14f60370dad5.png)
 ## CWS: A Dark Winter
 https://gameplexsoftware.com/cwsmc/storymode
 
