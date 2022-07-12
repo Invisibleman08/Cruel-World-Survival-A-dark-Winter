@@ -1,7 +1,7 @@
 {
     "general": {
         "buttons": {},
-        "show_first_time_modal": true,
+        "show_first_time_modal": false,
         "debug_playback_ticks": false,
         "green_screen_sky": false,
         "green_screen_sky_color": -16711936,

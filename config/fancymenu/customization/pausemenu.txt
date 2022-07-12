@@ -58,7 +58,7 @@ customization {
   action = addbutton
   y = -27
   label = See online
-  value = https://gameplex-software.github.io/get-story
+  value = https://gameplexsoftware.com/cwsmc/get-story
   height = 20
 }
 
